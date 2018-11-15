@@ -11,6 +11,7 @@ pylama = "*"
 flask = "*"
 flask-graphql = "*"
 graphene = "*"
+spotipy = "*"
 
 [requires]
 python_version = "3.6"
