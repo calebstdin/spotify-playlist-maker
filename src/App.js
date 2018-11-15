@@ -1,13 +1,13 @@
-import React from "react";
-import { StyleSheet, Text, View } from "react-native";
-import { getSpotifyAuthorization } from "./auth";
+import React from 'react';
+import { StyleSheet, Text, View } from 'react-native';
+import { getSpotifyAuthorization } from './auth';
 
 export default class App extends React.Component {
   state = {
-    result: null
+    result: null,
   };
 
-  async componentDidMount() {
+  async componentWillMount() {
     const result = await getSpotifyAuthorization();
     this.setState({ result });
   }
@@ -24,8 +24,8 @@ export default class App extends React.Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#fff",
-    alignItems: "center",
-    justifyContent: "center"
-  }
+    backgroundColor: '#fff',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
 });
