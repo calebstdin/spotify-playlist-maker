@@ -1,8 +1,8 @@
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
 import ApolloClient from 'apollo-boost';
 import { ApolloProvider } from 'react-apollo';
 import { getSpotifyAuthorization } from './auth';
+import SelectPlaylist from './SelectPlaylsit';
 
 const client = new ApolloClient({
   uri: 'https://fakerql.com/graphql',
@@ -21,19 +21,8 @@ export default class App extends React.Component {
   render() {
     return (
       <ApolloProvider client={client}>
-        <View style={styles.container}>
-          <Text>{JSON.stringify(this.state.result)}</Text>
-        </View>
+        <SelectPlaylist />
       </ApolloProvider>
     );
   }
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
