@@ -1,23 +1,40 @@
-from graphene import Mutation, ObjectType, String, Schema
+from graphene import Mutation, List, ObjectType, String, Schema
 from spotipy import Spotify
+
+
+class Playlist(ObjectType):
+
+    id = String()
+    name = String()
+
+
+class Query(ObjectType):
+
+    playlists = List(Playlist)
+
+    def resolve_playlists(self, info, **args):
+        accessToken = info.context.headers['Authorization']
+        sp = Spotify(auth=accessToken)
+        user_playlists = sp.current_user_playlists()['items']
+        return [
+            Playlist(id=playlist['id'], name=playlist['name'])
+            for playlist in user_playlists
+        ]
 
 
 class CreatePlaylist(Mutation):
     class Arguments:
-        playlistName = String()
         accessToken = String()
 
     playlistId = String()
     recommendedSong = String()
 
-    def mutate(self, info, playlistName, accessToken):
-        sp = Spotify(auth=accessToken)
-        track = sp.current_user_saved_tracks()['items'][0]['track']['name']
-        return CreatePlaylist(playlistId=playlistName, recommendedSong=track)
+    def mutate(self, info, accessToken):
+        return CreatePlaylist(playlistId='foo', recommendedSong='bar')
 
 
 class Mutations(ObjectType):
     createPlaylist = CreatePlaylist.Field()
 
 
-schema = Schema(mutation=Mutations)
+schema = Schema(query=Query, mutation=Mutations)
