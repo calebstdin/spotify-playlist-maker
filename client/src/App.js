@@ -1,23 +1,34 @@
 import React from 'react';
-import ApolloClient from 'apollo-boost';
 import { ApolloProvider } from 'react-apollo';
-import { getSpotifyAuthorization } from './auth';
+import { ApolloClient } from 'apollo-client';
+import { createHttpLink } from 'apollo-link-http';
+import { setContext } from 'apollo-link-context';
+import { InMemoryCache } from 'apollo-cache-inmemory';
 import SelectPlaylist from './SelectPlaylsit';
+import { getSpotifyAuthorization } from './auth';
+
+const httpLink = createHttpLink({
+  uri: 'http://localhost:5000/graphql',
+});
+
+const authLink = setContext(async (_, { headers }) => {
+  // get the authentication token from local storage if it exists
+  const token = await getSpotifyAuthorization();
+  // return the headers to the context so httpLink can read them
+  return {
+    headers: {
+      ...headers,
+      Authorization: token,
+    },
+  };
+});
 
 const client = new ApolloClient({
-  uri: 'https://fakerql.com/graphql',
+  link: authLink.concat(httpLink),
+  cache: new InMemoryCache(),
 });
 
 export default class App extends React.Component {
-  state = {
-    result: null,
-  };
-
-  async componentWillMount() {
-    const result = await getSpotifyAuthorization();
-    this.setState({ result });
-  }
-
   render() {
     return (
       <ApolloProvider client={client}>

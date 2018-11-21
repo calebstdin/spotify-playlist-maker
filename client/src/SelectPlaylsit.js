@@ -9,10 +9,10 @@ class SelectPlaylist extends React.Component {
 
     let result;
 
-    if (!data || !data.allUsers) {
+    if (!data || !data.playlists) {
       result = 'Failed';
     } else {
-      result = data.allUsers[0].id;
+      result = data.playlists[0].name;
     }
 
     return (
@@ -34,8 +34,9 @@ const styles = StyleSheet.create({
 
 export default graphql(gql`
   {
-    allUsers {
+    playlists {
       id
+      name
     }
   }
 `)(SelectPlaylist);
