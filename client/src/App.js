@@ -1,6 +1,12 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
+import ApolloClient from 'apollo-boost';
+import { ApolloProvider } from 'react-apollo';
 import { getSpotifyAuthorization } from './auth';
+
+const client = new ApolloClient({
+  uri: 'https://fakerql.com/graphql',
+});
 
 export default class App extends React.Component {
   state = {
@@ -14,9 +20,11 @@ export default class App extends React.Component {
 
   render() {
     return (
-      <View style={styles.container}>
-        <Text>{JSON.stringify(this.state.result)}</Text>
-      </View>
+      <ApolloProvider client={client}>
+        <View style={styles.container}>
+          <Text>{JSON.stringify(this.state.result)}</Text>
+        </View>
+      </ApolloProvider>
     );
   }
 }
