@@ -4,17 +4,15 @@ import { ApolloClient } from 'apollo-client';
 import { createHttpLink } from 'apollo-link-http';
 import { setContext } from 'apollo-link-context';
 import { InMemoryCache } from 'apollo-cache-inmemory';
-import SelectPlaylist from './SelectPlaylsit';
 import { getSpotifyAuthorization } from './auth';
+import PlaylistBuilder from './PlaylistBuilder';
 
 const httpLink = createHttpLink({
   uri: 'http://localhost:5000/graphql',
 });
 
 const authLink = setContext(async (_, { headers }) => {
-  // get the authentication token from local storage if it exists
   const token = await getSpotifyAuthorization();
-  // return the headers to the context so httpLink can read them
   return {
     headers: {
       ...headers,
@@ -26,13 +24,23 @@ const authLink = setContext(async (_, { headers }) => {
 const client = new ApolloClient({
   link: authLink.concat(httpLink),
   cache: new InMemoryCache(),
+  defaultOptions: {
+    watchQuery: {
+      fetchPolicy: 'network-only',
+      errorPolicy: 'ignore',
+    },
+    query: {
+      fetchPolicy: 'network-only',
+      errorPolicy: 'all',
+    },
+  },
 });
 
 export default class App extends React.Component {
   render() {
     return (
       <ApolloProvider client={client}>
-        <SelectPlaylist />
+        <PlaylistBuilder />
       </ApolloProvider>
     );
   }
