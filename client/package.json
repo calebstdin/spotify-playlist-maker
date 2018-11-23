@@ -3,7 +3,7 @@
   "main": "src/index.js",
   "private": true,
   "scripts": {
-    "start": "expo start",
+    "start": "adb reverse tcp:5000 tcp:5000 && expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
     "eject": "expo eject"

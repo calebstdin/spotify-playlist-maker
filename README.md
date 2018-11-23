@@ -41,6 +41,6 @@ Enable USB Debugging on your Android device.
 #### Running the app
 
 1. Plug in Android device via USB
-2. [Connect to the local server](https://facebook.github.io/react-native/docs/running-on-device#method-1-using-adb-reverse-recommended)
-3. `npm start`
+2. `npm start`
+3. Set connection type to "Local" or "Tunnel" instead of "LAN"
 4. Select `Run on Android device/emulator`
