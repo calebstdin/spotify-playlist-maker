@@ -9,9 +9,10 @@ class BuildPlaylist extends React.Component {
   };
 
   render() {
+    const { navigation } = this.props;
     return (
       <View>
-        <Text>foo</Text>
+        <Text>{navigation.getParam('playlistId')}</Text>
       </View>
     );
   }
