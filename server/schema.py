@@ -48,29 +48,43 @@ class SelectPlaylist(Mutation):
         recommender.initialize_recommender(tracks)
         set_selected_playlist(playlist)
         next_track = recommender.get_next_recommendation()
-        if not next_track:
-            return None
 
-        return SelectPlaylist(recommendedTrack=Track(**next_track))
+        return next_track and SelectPlaylist(
+            recommendedTrack=Track(**next_track))
 
 
-class EvaluateRecommendation(Mutation):
+class LikeRecommendation(Mutation):
     class Arguments:
-        addToPlaylist = Boolean()
+        playlistId = String()
 
-    recommendedTrack = Field(Track)
+    nextRecommendation = Field(Track)
 
-    def mutate(self, info, addToPlaylist):
-        next_track = recommender.get_next_recommendation()
-        if not next_track:
-            return None
+    def mutate(self, info):
+        recommender.like_current_recommendation()
+        next_recommendation = recommender.get_next_recommendation()
+        return LikeRecommendation(
+            nextRecommendation=next_recommendation and Track(
+                **next_recommendation))
 
-        return EvaluateRecommendation(recommendedTrack=Track(**next_track))
+
+class DislikeRecommendation(Mutation):
+    class Arguments:
+        playlistId = String()
+
+    nextRecommendation = Field(Track)
+
+    def mutate(self, info):
+        recommender.dislike_current_recommendation()
+        next_recommendation = recommender.get_next_recommendation()
+        return DislikeRecommendation(
+            nextRecommendaiton=next_recommendation and Track(
+                **next_recommendation))
 
 
 class Mutations(ObjectType):
     selectPlaylist = SelectPlaylist.Field()
-    evaluateRecommendation = EvaluateRecommendation.Field()
+    likeRecommendation = LikeRecommendation.Field()
+    disLikeRecommendation = DislikeRecommendation.Field()
 
 
 schema = Schema(query=Query, mutation=Mutations)

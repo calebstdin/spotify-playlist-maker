@@ -32,12 +32,12 @@ def get_current_recommendation():
 
 def like_current_recommendation():
     global recommender
-    return recommender.yes()
+    return recommender.like()
 
 
 def dislike_current_recommendation():
     global recommender
-    return recommender.no()
+    return recommender.dislike()
 
 
 def get_next_recommendation():
