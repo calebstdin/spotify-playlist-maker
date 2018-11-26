@@ -13,16 +13,31 @@ class Recommender:
         else:
             return None
 
-    def yes(self):
+    def like(self):
         self.next()
 
-    def no(self):
+    def dislike(self):
         self.next()
 
 
 def initialize_recommender(songs_in_playlist):
     global recommender
     recommender = Recommender(songs_in_playlist)
+
+
+def get_current_recommendation():
+    global recommender
+    return recommender.current()
+
+
+def like_current_recommendation():
+    global recommender
+    return recommender.yes()
+
+
+def dislike_current_recommendation():
+    global recommender
+    return recommender.no()
 
 
 def get_next_recommendation():
