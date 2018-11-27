@@ -10,9 +10,9 @@ class SelectPlaylist extends React.Component {
     headerTitle: 'Select a playlist',
   };
 
-  selectPlaylist = playlist => {
+  selectPlaylist = async playlist => {
     const { navigation, selectPlaylist } = this.props;
-    selectPlaylist({
+    await selectPlaylist({
       variables: {
         playlistId: playlist.id,
       },

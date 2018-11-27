@@ -1,9 +1,10 @@
 class Recommender:
     def __init__(self, songs_in_playlist):
         self.songs_in_playlist = songs_in_playlist
-        self.recommendations = 0
+        self.recommendations = -1
 
     def current(self):
+        print(self.recommendations)
         return self.songs_in_playlist[self.recommendations]
 
     def next(self):

@@ -1,5 +1,6 @@
 import * as React from 'react';
-import { View, Text } from 'native-base';
+import { Image } from 'react-native';
+import { Text, DeckSwiper, Card, CardItem, Left, Body, View, H3 } from 'native-base';
 import gql from 'graphql-tag';
 import { graphql, compose } from 'react-apollo';
 import { LoadingScreen } from '../components';
@@ -11,18 +12,50 @@ class BuildPlaylist extends React.Component {
     };
   };
 
+  like = () => {
+    console.log('liked!');
+  };
+
+  dislike = () => {
+    console.log('disliked!');
+  };
+
   render() {
     const { data } = this.props;
 
-    if (!data || !data.selectedPlaylist) {
+    if (!data || !data.selectedPlaylist || !data.currentRecommendation) {
       return <LoadingScreen />;
     }
 
-    const { selectedPlaylist } = data;
+    const { selectedPlaylist, currentRecommendation } = data;
+
+    console.log(currentRecommendation.coverImageUrl);
 
     return (
-      <View>
-        <Text>{selectedPlaylist.url}</Text>
+      <View style={{ padding: 5 }}>
+        <DeckSwiper
+          onSwipeRight={this.like}
+          onSwipeLeft={this.dislike}
+          dataSource={[currentRecommendation]}
+          renderItem={item => (
+            <Card style={{ elevation: 3 }}>
+              <CardItem cardBody>
+                <Image
+                  style={{ height: 300, width: 300, flex: 1 }}
+                  source={{ uri: currentRecommendation.coverImageUrl }}
+                />
+              </CardItem>
+              <CardItem>
+                <Left>
+                  <Body>
+                    <H3>{item.name}</H3>
+                    <Text note>{item.artists[0]}</Text>
+                  </Body>
+                </Left>
+              </CardItem>
+            </Card>
+          )}
+        />
       </View>
     );
   }
