@@ -12,8 +12,10 @@ const httpLink = createHttpLink({
   uri: 'http://localhost:5000/graphql',
 });
 
+let token;
+
 const authLink = setContext(async (_, { headers }) => {
-  const token = await getSpotifyAuthorization();
+  token = token || (await getSpotifyAuthorization());
   return {
     headers: {
       ...headers,

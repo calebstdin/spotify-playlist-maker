@@ -1,8 +1,9 @@
 import * as React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import { Text, View } from 'react-native';
 import { List, ListItem } from 'native-base';
 import gql from 'graphql-tag';
-import { graphql } from 'react-apollo';
+import { graphql, compose } from 'react-apollo';
+import { LoadingScreen } from '../components';
 
 class SelectPlaylist extends React.Component {
   static navigationOptions = {
@@ -10,9 +11,13 @@ class SelectPlaylist extends React.Component {
   };
 
   selectPlaylist = playlist => {
-    const { navigation } = this.props;
+    const { navigation, selectPlaylist } = this.props;
+    selectPlaylist({
+      variables: {
+        playlistId: playlist.id,
+      },
+    });
     navigation.navigate('BuildPlaylist', {
-      playlistId: playlist.id,
       playlistName: playlist.name,
     });
   };
@@ -20,8 +25,8 @@ class SelectPlaylist extends React.Component {
   render() {
     const { data } = this.props;
 
-    if (!data || !data.playlists) {
-      return <View />;
+    if (data.loading) {
+      return <LoadingScreen />;
     }
 
     return (
@@ -38,11 +43,25 @@ class SelectPlaylist extends React.Component {
   }
 }
 
-export default graphql(gql`
-  {
-    playlists {
-      id
-      name
+export default compose(
+  graphql(gql`
+    query Playlists {
+      playlists {
+        id
+        name
+      }
     }
-  }
-`)(SelectPlaylist);
+  `),
+  graphql(
+    gql`
+      mutation SelectPlaylist($playlistId: String!) {
+        selectPlaylist(playlistId: $playlistId) {
+          selectedPlaylist {
+            name
+          }
+        }
+      }
+    `,
+    { name: 'selectPlaylist' }
+  )
+)(SelectPlaylist);
