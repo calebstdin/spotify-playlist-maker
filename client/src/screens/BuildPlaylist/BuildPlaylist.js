@@ -1,6 +1,6 @@
 import * as React from 'react';
-import { Image } from 'react-native';
-import { Text, DeckSwiper, Card, CardItem, Left, Body, View, H3 } from 'native-base';
+import { Image, Linking } from 'react-native';
+import { Text, DeckSwiper, Card, CardItem, Left, Body, View, H3, Button } from 'native-base';
 import gql from 'graphql-tag';
 import { graphql, compose } from 'react-apollo';
 import { LoadingScreen } from '../components';
@@ -12,12 +12,18 @@ class BuildPlaylist extends React.Component {
     };
   };
 
+  openPlaylist = playlistUrl => {
+    Linking.openURL(playlistUrl);
+  };
+
   like = () => {
-    console.log('liked!');
+    const { likeRecommendation } = this.props;
+    likeRecommendation();
   };
 
   dislike = () => {
-    console.log('disliked!');
+    const { dislikeRecommendation } = this.props;
+    dislikeRecommendation();
   };
 
   render() {
@@ -29,10 +35,10 @@ class BuildPlaylist extends React.Component {
 
     const { selectedPlaylist, currentRecommendation } = data;
 
-    console.log(currentRecommendation.coverImageUrl);
+    console.log(currentRecommendation.name);
 
     return (
-      <View style={{ padding: 5 }}>
+      <View style={{ padding: 5, flex: 1, flexDirection: 'column' }}>
         <DeckSwiper
           onSwipeRight={this.like}
           onSwipeLeft={this.dislike}
@@ -56,6 +62,21 @@ class BuildPlaylist extends React.Component {
             </Card>
           )}
         />
+        <View
+          style={{
+            flexDirection: 'row',
+            flex: 1,
+            position: 'absolute',
+            bottom: 70,
+            left: 0,
+            right: 0,
+            justifyContent: 'center',
+            padding: 15,
+          }}>
+          <Button iconLeft onPress={() => this.openPlaylist(selectedPlaylist.url)}>
+            <Text>Open playlist in Spotify</Text>
+          </Button>
+        </View>
       </View>
     );
   }
@@ -85,7 +106,7 @@ export default compose(
         }
       }
     `,
-    { name: 'likeRecommendation' }
+    { name: 'likeRecommendation', options: { refetchQueries: ['CurrentState'] } }
   ),
   graphql(
     gql`
@@ -97,6 +118,6 @@ export default compose(
         }
       }
     `,
-    { name: 'dislikeRecommendation' }
+    { name: 'dislikeRecommendation', options: { refetchQueries: ['CurrentState'] } }
   )
 )(BuildPlaylist);

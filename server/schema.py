@@ -79,14 +79,14 @@ class DislikeRecommendation(Mutation):
         recommender.dislike_current_recommendation()
         next_recommendation = recommender.get_next_recommendation()
         return DislikeRecommendation(
-            nextRecommendaiton=next_recommendation and Track(
+            nextRecommendation=next_recommendation and Track(
                 **next_recommendation))
 
 
 class Mutations(ObjectType):
     selectPlaylist = SelectPlaylist.Field()
     likeRecommendation = LikeRecommendation.Field()
-    disLikeRecommendation = DislikeRecommendation.Field()
+    dislikeRecommendation = DislikeRecommendation.Field()
 
 
 schema = Schema(query=Query, mutation=Mutations)
