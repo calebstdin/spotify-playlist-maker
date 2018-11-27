@@ -40,6 +40,7 @@ class SelectPlaylist(Mutation):
     class Arguments:
         playlistId = String()
 
+    selectedPlaylist = Field(Playlist)
     recommendedTrack = Field(Track)
 
     def mutate(self, info, playlistId):
@@ -50,6 +51,7 @@ class SelectPlaylist(Mutation):
         next_track = recommender.get_next_recommendation()
 
         return next_track and SelectPlaylist(
+            selectedPlaylist=Playlist(**playlist),
             recommendedTrack=Track(**next_track))
 
 
