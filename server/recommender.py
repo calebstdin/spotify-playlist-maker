@@ -1,19 +1,12 @@
-class Recommender:
+from abc import ABC, abstractmethod
+
+
+class Recommender(ABC):
     def __init__(self, training_set, recommendations_pool):
 
         self.training_set = training_set
         self.recommendations_pool = recommendations_pool
-        self.recommendations = -1
-
-    def current(self):
-        return self.recommendations_pool[self.recommendations]
-
-    def next(self):
-        self.recommendations += 1
-        if self.recommendations < len(self.recommendations_pool):
-            return self.recommendations_pool[self.recommendations]
-        else:
-            return None
+        self.current_recommendation = self.next()
 
     def like(self):
         self.next()
@@ -21,10 +14,31 @@ class Recommender:
     def dislike(self):
         self.next()
 
+    @abstractmethod
+    def current(self):
+        pass
+
+    @abstractmethod
+    def next(self):
+        pass
+
+
+class BaselineRecommender(Recommender):
+    def current(self):
+        return self.current_recommendation
+
+    def next(self):
+        if self.recommendations_pool:
+            self.current_recommendation = self.recommendations_pool.pop()
+        else:
+            self.current_recommendation = None
+
+        return self.current_recommendation
+
 
 def initialize_recommender(training_set, recommendations_pool):
     global recommender
-    recommender = Recommender(training_set, recommendations_pool)
+    recommender = BaselineRecommender(training_set, recommendations_pool)
 
 
 def get_current_recommendation():
