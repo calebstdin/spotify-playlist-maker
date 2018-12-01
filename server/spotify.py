@@ -18,6 +18,8 @@ def playlist(spotify_playlist_data):
 
 def tracks(spotify_track_data, access_token):
     sp = Spotify(auth=access_token)
+
+    # Can only get song features for up to 100 songs at a times
     track_id_chunks = list(
         chunks([track['track']['id'] for track in spotify_track_data], 100))
 
@@ -45,8 +47,11 @@ def tracks(spotify_track_data, access_token):
                 },
                 'id': track['id'],
                 'displayInfo': {
-                    "coverImageUrl": len(track['album']['images']) > 0 and track['album']['images'][0]['url'] or None,
-                    "name": track['name'],
+                    "coverImageUrl":
+                    len(track['album']['images']) > 0
+                    and track['album']['images'][0]['url'] or None,
+                    "name":
+                    track['name'],
                     "artists": [artist['name'] for artist in track['artists']]
                 }
             })
