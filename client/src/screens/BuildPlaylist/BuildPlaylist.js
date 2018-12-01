@@ -52,8 +52,8 @@ class BuildPlaylist extends React.Component {
               <CardItem>
                 <Left>
                   <Body>
-                    <H3>{item.name}</H3>
-                    <Text note>{item.artists[0]}</Text>
+                    <H3>{currentRecommendation.name}</H3>
+                    <Text note>{currentRecommendation.artists[0]}</Text>
                   </Body>
                 </Left>
               </CardItem>
