@@ -35,8 +35,6 @@ class BuildPlaylist extends React.Component {
 
     const { selectedPlaylist, currentRecommendation } = data;
 
-    console.log(currentRecommendation.name);
-
     return (
       <View style={{ padding: 5, flex: 1, flexDirection: 'column' }}>
         <DeckSwiper

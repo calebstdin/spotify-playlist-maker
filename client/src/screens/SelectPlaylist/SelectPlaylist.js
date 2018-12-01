@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { Text, View } from 'react-native';
+import { Text, ScrollView } from 'react-native';
 import { List, ListItem } from 'native-base';
 import gql from 'graphql-tag';
 import { graphql, compose } from 'react-apollo';
@@ -30,7 +30,7 @@ class SelectPlaylist extends React.Component {
     }
 
     return (
-      <View>
+      <ScrollView>
         <List>
           {data.playlists.map(playlist => (
             <ListItem key={playlist.id} onPress={() => this.selectPlaylist(playlist)}>
@@ -38,7 +38,7 @@ class SelectPlaylist extends React.Component {
             </ListItem>
           ))}
         </List>
-      </View>
+      </ScrollView>
     );
   }
 }
