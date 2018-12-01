@@ -21,11 +21,10 @@ def tracks(spotify_track_data, access_token):
 
     # Can only get song features for up to 100 songs at a times
     track_id_chunks = list(
-        chunks([track['track']['id'] for track in spotify_track_data], 100))
+        chunks([track['track']['id'] for track in spotify_track_data if track['track']['id'] is not None], 100))
 
     tracks = []
     for track_id_chunk in track_id_chunks:
-        track_id_chunk = [x for x in track_id_chunk if x is not None]
         audio_features_chunk = sp.audio_features(track_id_chunk)
         for idx, audio_features in enumerate(audio_features_chunk):
             if not audio_features:
