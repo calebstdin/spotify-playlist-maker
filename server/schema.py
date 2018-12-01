@@ -32,7 +32,7 @@ class Query(ObjectType):
         return playlist and Playlist(**playlist)
 
     def resolve_currentRecommendation(self, info):
-        track = recommender.get_current_recommendation()
+        track = recommender.get_recommendation()
         return track and Track(**track['displayInfo'])
 
 
@@ -57,7 +57,7 @@ class SelectPlaylist(Mutation):
                                            song_recommendations_pool)
 
         set_selected_playlist(playlist)
-        next_track = recommender.get_next_recommendation()
+        next_track = recommender.get_recommendation()
 
         return next_track and SelectPlaylist(
             selectedPlaylist=Playlist(**playlist),
@@ -71,8 +71,8 @@ class LikeRecommendation(Mutation):
     nextRecommendation = Field(Track)
 
     def mutate(self, info):
-        recommender.like_current_recommendation()
-        next_recommendation = recommender.get_next_recommendation()
+        recommender.like_recommendation()
+        next_recommendation = recommender.get_recommendation()
         return LikeRecommendation(
             nextRecommendation=next_recommendation and Track(
                 **next_recommendation['displayInfo']))
@@ -85,8 +85,8 @@ class DislikeRecommendation(Mutation):
     nextRecommendation = Field(Track)
 
     def mutate(self, info):
-        recommender.dislike_current_recommendation()
-        next_recommendation = recommender.get_next_recommendation()
+        recommender.dislike_recommendation()
+        next_recommendation = recommender.get_recommendation()
         return DislikeRecommendation(
             nextRecommendation=next_recommendation and Track(
                 **next_recommendation['displayInfo']))

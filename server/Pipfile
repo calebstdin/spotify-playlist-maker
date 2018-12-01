@@ -13,6 +13,8 @@ flask = "*"
 flask-graphql = "*"
 graphene = "*"
 spotipy = "*"
+sklearn = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.6"

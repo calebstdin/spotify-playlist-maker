@@ -23,6 +23,7 @@ def tracks(spotify_track_data, access_token):
 
     tracks = []
     for track_id_chunk in track_id_chunks:
+        track_id_chunk = [x for x in track_id_chunk if x is not None]
         audio_features_chunk = sp.audio_features(track_id_chunk)
         for idx, audio_features in enumerate(audio_features_chunk):
             if not audio_features:
@@ -34,7 +35,7 @@ def tracks(spotify_track_data, access_token):
                     "energy": audio_features['energy'],
                     "key": audio_features['key'],
                     "loudness": audio_features['loudness'],
-                    "mode": audio_features['mode'],
+                    "mode": bool(audio_features['mode']),
                     "speechiness": audio_features['speechiness'],
                     "acousticness": audio_features['acousticness'],
                     "instrumentalness": audio_features['instrumentalness'],
@@ -44,7 +45,7 @@ def tracks(spotify_track_data, access_token):
                 },
                 'id': track['id'],
                 'displayInfo': {
-                    "coverImageUrl": track['album']['images'][0]['url'],
+                    "coverImageUrl": len(track['album']['images']) > 0 and track['album']['images'][0]['url'] or None,
                     "name": track['name'],
                     "artists": [artist['name'] for artist in track['artists']]
                 }

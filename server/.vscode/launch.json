@@ -42,7 +42,7 @@
       "env": {
         "FLASK_APP": "app.py"
       },
-      "args": ["run", "--no-debugger", "--no-reload"],
+      "args": ["run", "--no-debugger"],
       "jinja": true
     },
     {
