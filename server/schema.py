@@ -1,6 +1,6 @@
 from graphene import Mutation, List, ObjectType, String, Schema, Field, Boolean
 import recommender
-from spotify import get_user_playlist, get_user_playlists
+from spotify import get_user_playlist, get_user_playlists, get_user_tracks
 from state import set_selected_playlist, get_selected_playlist
 
 
@@ -33,7 +33,7 @@ class Query(ObjectType):
 
     def resolve_currentRecommendation(self, info):
         track = recommender.get_current_recommendation()
-        return track and Track(**track)
+        return track and Track(**track['displayInfo'])
 
 
 class SelectPlaylist(Mutation):
@@ -45,14 +45,23 @@ class SelectPlaylist(Mutation):
 
     def mutate(self, info, playlistId):
         access_token = info.context.headers['Authorization']
-        playlist, tracks = get_user_playlist(access_token, playlistId)
-        recommender.initialize_recommender(tracks)
+        playlist, playlist_tracks = get_user_playlist(access_token, playlistId)
+        user_saved_tracks = get_user_tracks(access_token)
+
+        playlist_tracks_ids = [track['id'] for track in playlist_tracks]
+        song_recommendations_pool = [
+            track for track in user_saved_tracks
+            if track['id'] not in playlist_tracks_ids
+        ]
+        recommender.initialize_recommender(playlist_tracks,
+                                           song_recommendations_pool)
+
         set_selected_playlist(playlist)
         next_track = recommender.get_next_recommendation()
 
         return next_track and SelectPlaylist(
             selectedPlaylist=Playlist(**playlist),
-            recommendedTrack=Track(**next_track))
+            recommendedTrack=Track(**next_track['displayInfo']))
 
 
 class LikeRecommendation(Mutation):
@@ -66,7 +75,7 @@ class LikeRecommendation(Mutation):
         next_recommendation = recommender.get_next_recommendation()
         return LikeRecommendation(
             nextRecommendation=next_recommendation and Track(
-                **next_recommendation))
+                **next_recommendation['displayInfo']))
 
 
 class DislikeRecommendation(Mutation):
@@ -80,7 +89,7 @@ class DislikeRecommendation(Mutation):
         next_recommendation = recommender.get_next_recommendation()
         return DislikeRecommendation(
             nextRecommendation=next_recommendation and Track(
-                **next_recommendation))
+                **next_recommendation['displayInfo']))
 
 
 class Mutations(ObjectType):

@@ -1,16 +1,17 @@
 class Recommender:
-    def __init__(self, songs_in_playlist):
-        self.songs_in_playlist = songs_in_playlist
+    def __init__(self, training_set, recommendations_pool):
+
+        self.training_set = training_set
+        self.recommendations_pool = recommendations_pool
         self.recommendations = -1
 
     def current(self):
-        print(self.recommendations)
-        return self.songs_in_playlist[self.recommendations]
+        return self.recommendations_pool[self.recommendations]
 
     def next(self):
         self.recommendations += 1
-        if self.recommendations < len(self.songs_in_playlist):
-            return self.songs_in_playlist[self.recommendations]
+        if self.recommendations < len(self.recommendations_pool):
+            return self.recommendations_pool[self.recommendations]
         else:
             return None
 
@@ -21,9 +22,9 @@ class Recommender:
         self.next()
 
 
-def initialize_recommender(songs_in_playlist):
+def initialize_recommender(training_set, recommendations_pool):
     global recommender
-    recommender = Recommender(songs_in_playlist)
+    recommender = Recommender(training_set, recommendations_pool)
 
 
 def get_current_recommendation():
