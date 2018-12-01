@@ -77,9 +77,3 @@ def get_user_tracks(access_token):
         spotify_tracks += spotify_tracks_chunk['items']
 
     return tracks(spotify_tracks, access_token)
-
-
-if __name__ == "__main__":
-    get_user_tracks(
-        'BQCcj9i65BMh3QUyFAAWJbfknqaHYCSY96gW18TgdBjZzfwjumbzlOmgyKc0cdjTrkdM84E1h4rfFt8OAoIg3-T8LC6TKv0reu5phONexWslptAO53CFesY8IMGl24ahp7ZNEP3kfIYnqut0rcvjT-PHLdd2p6HFTxQltB-LcmBrvgt0zWW1AzNGHdbqGzUv34lG8TBPWjwEoA'
-    )

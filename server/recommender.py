@@ -27,12 +27,6 @@ class Recommender(ABC):
         if like_current_recommendation is False:
             self.disliked_tracks.append(self.current_recommendation)
 
-        if like_current_recommendation is not None:
-            self.recommendations_pool = [
-                x for x in self.recommendations_pool
-                if x['id'] != self.current_recommendation['id']
-            ]
-
         if self.recommendations_pool:
             self.current_recommendation = self.next_recommendation(
                 like_current_recommendation)
@@ -51,7 +45,10 @@ class BaselineRecommender(Recommender):
         return self.recommendations_pool.pop()
 
 
-class DirectClassifier(Recommender):
+# All songs in the playlist have target feature = True
+# All songs in the recommendation pool have target feature = False
+# Train classifier based on that.
+class NaiveClassification(Recommender):
     def next_recommendation(self, like_current_recommendation):
         X_train = preprocessing.scale(
             pd.DataFrame(
@@ -71,13 +68,18 @@ class DirectClassifier(Recommender):
 
         clf = SVC(gamma='auto', probability=True)
         clf.fit(X_train, y)
+        predictions = clf.predict_proba(X_predict)
 
-        return self.recommendations_pool.pop()
+        recommendation_index = predictions.argmax(axis=0)[0]
+        recommendation = self.recommendations_pool[recommendation_index]
+        del self.recommendations_pool[recommendation_index]
+
+        return recommendation
 
 
 def initialize_recommender(playlist_tracks, recommendations_pool):
     global recommender
-    recommender = DirectClassifier(playlist_tracks, recommendations_pool)
+    recommender = NaiveClassification(playlist_tracks, recommendations_pool)
 
 
 def get_recommendation():
