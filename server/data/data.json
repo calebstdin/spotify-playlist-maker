@@ -7,9 +7,9 @@
           "features": {
             "danceability": 0.749,
             "energy": 0.477,
-            "key": 0,
+
             "loudness": -6.192,
-            "mode": false,
+
             "speechiness": 0.0348,
             "acousticness": 0.487,
             "instrumentalness": 0.908,
@@ -28,9 +28,9 @@
           "features": {
             "danceability": 0.513,
             "energy": 0.655,
-            "key": 0,
+
             "loudness": -11.554,
-            "mode": false,
+
             "speechiness": 0.0407,
             "acousticness": 0.14,
             "instrumentalness": 0.841,
@@ -49,9 +49,9 @@
           "features": {
             "danceability": 0.615,
             "energy": 0.433,
-            "key": 1,
+
             "loudness": -11.675,
-            "mode": true,
+
             "speechiness": 0.0927,
             "acousticness": 0.0131,
             "instrumentalness": 0.832,
@@ -70,9 +70,9 @@
           "features": {
             "danceability": 0.351,
             "energy": 0.793,
-            "key": 9,
+
             "loudness": -9.093,
-            "mode": true,
+
             "speechiness": 0.0368,
             "acousticness": 0.133,
             "instrumentalness": 0.779,
@@ -91,9 +91,9 @@
           "features": {
             "danceability": 0.315,
             "energy": 0.11,
-            "key": 3,
+
             "loudness": -20.94,
-            "mode": true,
+
             "speechiness": 0.0343,
             "acousticness": 0.974,
             "instrumentalness": 0.897,
@@ -112,9 +112,9 @@
           "features": {
             "danceability": 0.428,
             "energy": 0.566,
-            "key": 4,
+
             "loudness": -8.352,
-            "mode": true,
+
             "speechiness": 0.0279,
             "acousticness": 0.933,
             "instrumentalness": 0.581,
@@ -133,9 +133,9 @@
           "features": {
             "danceability": 0.552,
             "energy": 0.878,
-            "key": 1,
+
             "loudness": -5.767,
-            "mode": true,
+
             "speechiness": 0.0353,
             "acousticness": 0.0585,
             "instrumentalness": 0.892,
@@ -154,9 +154,9 @@
           "features": {
             "danceability": 0.565,
             "energy": 0.806,
-            "key": 8,
+
             "loudness": -6.521,
-            "mode": true,
+
             "speechiness": 0.109,
             "acousticness": 0.442,
             "instrumentalness": 4.63e-6,
@@ -175,9 +175,9 @@
           "features": {
             "danceability": 0.38,
             "energy": 0.0993,
-            "key": 2,
+
             "loudness": -20.567,
-            "mode": true,
+
             "speechiness": 0.0509,
             "acousticness": 0.914,
             "instrumentalness": 2.32e-5,
@@ -196,9 +196,9 @@
           "features": {
             "danceability": 0.599,
             "energy": 0.697,
-            "key": 0,
+
             "loudness": -10.073,
-            "mode": true,
+
             "speechiness": 0.0351,
             "acousticness": 0.0011,
             "instrumentalness": 0.813,
@@ -217,9 +217,9 @@
           "features": {
             "danceability": 0.335,
             "energy": 0.00532,
-            "key": 1,
+
             "loudness": -31.646,
-            "mode": true,
+
             "speechiness": 0.0376,
             "acousticness": 0.994,
             "instrumentalness": 0.912,
@@ -238,9 +238,9 @@
           "features": {
             "danceability": 0.481,
             "energy": 0.262,
-            "key": 7,
+
             "loudness": -15.73,
-            "mode": true,
+
             "speechiness": 0.0414,
             "acousticness": 0.735,
             "instrumentalness": 0.0114,
@@ -259,9 +259,9 @@
           "features": {
             "danceability": 0.612,
             "energy": 0.276,
-            "key": 7,
+
             "loudness": -11.932,
-            "mode": true,
+
             "speechiness": 0.0358,
             "acousticness": 0.898,
             "instrumentalness": 0.864,
@@ -280,9 +280,9 @@
           "features": {
             "danceability": 0.875,
             "energy": 0.475,
-            "key": 9,
+
             "loudness": -12.673,
-            "mode": false,
+
             "speechiness": 0.0986,
             "acousticness": 0.44,
             "instrumentalness": 0.72,
@@ -301,9 +301,9 @@
           "features": {
             "danceability": 0.747,
             "energy": 0.706,
-            "key": 9,
+
             "loudness": -7.553,
-            "mode": false,
+
             "speechiness": 0.0559,
             "acousticness": 0.337,
             "instrumentalness": 0.11,
@@ -322,9 +322,9 @@
           "features": {
             "danceability": 0.653,
             "energy": 0.703,
-            "key": 8,
+
             "loudness": -4.376,
-            "mode": false,
+
             "speechiness": 0.19,
             "acousticness": 0.0846,
             "instrumentalness": 0.322,
@@ -343,9 +343,9 @@
           "features": {
             "danceability": 0.711,
             "energy": 0.292,
-            "key": 4,
+
             "loudness": -15.523,
-            "mode": false,
+
             "speechiness": 0.037,
             "acousticness": 0.313,
             "instrumentalness": 0,
@@ -364,9 +364,9 @@
           "features": {
             "danceability": 0.279,
             "energy": 0.452,
-            "key": 5,
+
             "loudness": -10.598,
-            "mode": false,
+
             "speechiness": 0.0335,
             "acousticness": 0.418,
             "instrumentalness": 0.582,
@@ -385,9 +385,9 @@
           "features": {
             "danceability": 0.475,
             "energy": 0.209,
-            "key": 0,
+
             "loudness": -14.442,
-            "mode": true,
+
             "speechiness": 0.0349,
             "acousticness": 0.935,
             "instrumentalness": 0.00332,
@@ -406,9 +406,9 @@
           "features": {
             "danceability": 0.0714,
             "energy": 0.207,
-            "key": 0,
+
             "loudness": -14.578,
-            "mode": true,
+
             "speechiness": 0.037,
             "acousticness": 0.292,
             "instrumentalness": 6.92e-5,
@@ -427,9 +427,9 @@
           "features": {
             "danceability": 0.508,
             "energy": 0.466,
-            "key": 11,
+
             "loudness": -11.504,
-            "mode": true,
+
             "speechiness": 0.035,
             "acousticness": 0.923,
             "instrumentalness": 0.169,
@@ -448,9 +448,9 @@
           "features": {
             "danceability": 0.364,
             "energy": 0.143,
-            "key": 1,
+
             "loudness": -26.625,
-            "mode": true,
+
             "speechiness": 0.043,
             "acousticness": 0.991,
             "instrumentalness": 0.918,
@@ -469,9 +469,9 @@
           "features": {
             "danceability": 0.677,
             "energy": 0.66,
-            "key": 0,
+
             "loudness": -6.719,
-            "mode": true,
+
             "speechiness": 0.0278,
             "acousticness": 0.187,
             "instrumentalness": 0.262,
@@ -490,9 +490,9 @@
           "features": {
             "danceability": 0.546,
             "energy": 0.889,
-            "key": 0,
+
             "loudness": -9.965,
-            "mode": true,
+
             "speechiness": 0.0376,
             "acousticness": 0.00538,
             "instrumentalness": 0.422,
@@ -511,9 +511,9 @@
           "features": {
             "danceability": 0.745,
             "energy": 0.356,
-            "key": 1,
+
             "loudness": -10.425,
-            "mode": true,
+
             "speechiness": 0.0941,
             "acousticness": 0.172,
             "instrumentalness": 0.00943,
@@ -532,9 +532,9 @@
           "features": {
             "danceability": 0.601,
             "energy": 0.499,
-            "key": 6,
+
             "loudness": -11.131,
-            "mode": true,
+
             "speechiness": 0.0343,
             "acousticness": 0.815,
             "instrumentalness": 0.712,
@@ -553,9 +553,9 @@
           "features": {
             "danceability": 0.421,
             "energy": 0.547,
-            "key": 2,
+
             "loudness": -9.052,
-            "mode": true,
+
             "speechiness": 0.0281,
             "acousticness": 0.295,
             "instrumentalness": 0.413,
@@ -574,9 +574,9 @@
           "features": {
             "danceability": 0.646,
             "energy": 0.11,
-            "key": 9,
+
             "loudness": -20.284,
-            "mode": false,
+
             "speechiness": 0.0354,
             "acousticness": 0.928,
             "instrumentalness": 0.852,
@@ -595,9 +595,9 @@
           "features": {
             "danceability": 0.329,
             "energy": 0.283,
-            "key": 4,
+
             "loudness": -17.277,
-            "mode": false,
+
             "speechiness": 0.046,
             "acousticness": 0.864,
             "instrumentalness": 0.871,
@@ -616,9 +616,9 @@
           "features": {
             "danceability": 0.676,
             "energy": 0.0812,
-            "key": 2,
+
             "loudness": -22.846,
-            "mode": true,
+
             "speechiness": 0.0398,
             "acousticness": 0.979,
             "instrumentalness": 0.416,
@@ -637,9 +637,9 @@
           "features": {
             "danceability": 0.423,
             "energy": 0.183,
-            "key": 9,
+
             "loudness": -13.517,
-            "mode": true,
+
             "speechiness": 0.0344,
             "acousticness": 0.715,
             "instrumentalness": 4.25e-5,
@@ -658,9 +658,9 @@
           "features": {
             "danceability": 0.507,
             "energy": 0.138,
-            "key": 1,
+
             "loudness": -16.447,
-            "mode": true,
+
             "speechiness": 0.0334,
             "acousticness": 0.925,
             "instrumentalness": 0.0777,
@@ -679,9 +679,9 @@
           "features": {
             "danceability": 0.299,
             "energy": 0.0187,
-            "key": 1,
+
             "loudness": -35.792,
-            "mode": false,
+
             "speechiness": 0.0477,
             "acousticness": 0.995,
             "instrumentalness": 0.912,
@@ -700,9 +700,9 @@
           "features": {
             "danceability": 0.652,
             "energy": 0.409,
-            "key": 9,
+
             "loudness": -12.768,
-            "mode": false,
+
             "speechiness": 0.0466,
             "acousticness": 0.393,
             "instrumentalness": 0.912,
@@ -721,9 +721,9 @@
           "features": {
             "danceability": 0.435,
             "energy": 0.423,
-            "key": 11,
+
             "loudness": -8.795,
-            "mode": true,
+
             "speechiness": 0.024,
             "acousticness": 0.0916,
             "instrumentalness": 0.000659,
@@ -742,9 +742,9 @@
           "features": {
             "danceability": 0.686,
             "energy": 0.127,
-            "key": 7,
+
             "loudness": -14.361,
-            "mode": true,
+
             "speechiness": 0.0342,
             "acousticness": 0.754,
             "instrumentalness": 1.41e-5,
@@ -763,9 +763,9 @@
           "features": {
             "danceability": 0.818,
             "energy": 0.381,
-            "key": 8,
+
             "loudness": -8.241,
-            "mode": false,
+
             "speechiness": 0.153,
             "acousticness": 0.067,
             "instrumentalness": 0.0267,
@@ -784,9 +784,9 @@
           "features": {
             "danceability": 0.397,
             "energy": 0.351,
-            "key": 1,
+
             "loudness": -10.708,
-            "mode": false,
+
             "speechiness": 0.0285,
             "acousticness": 0.818,
             "instrumentalness": 0.021,
@@ -805,9 +805,9 @@
           "features": {
             "danceability": 0.241,
             "energy": 0.46,
-            "key": 3,
+
             "loudness": -9.22,
-            "mode": true,
+
             "speechiness": 0.0306,
             "acousticness": 0.123,
             "instrumentalness": 0.91,
@@ -826,9 +826,9 @@
           "features": {
             "danceability": 0.554,
             "energy": 0.494,
-            "key": 11,
+
             "loudness": -12.344,
-            "mode": false,
+
             "speechiness": 0.0332,
             "acousticness": 0.00269,
             "instrumentalness": 0.836,
@@ -847,9 +847,9 @@
           "features": {
             "danceability": 0.195,
             "energy": 0.604,
-            "key": 10,
+
             "loudness": -10.238,
-            "mode": false,
+
             "speechiness": 0.0383,
             "acousticness": 0.583,
             "instrumentalness": 0.893,
@@ -868,9 +868,9 @@
           "features": {
             "danceability": 0.0891,
             "energy": 0.341,
-            "key": 10,
+
             "loudness": -12.681,
-            "mode": false,
+
             "speechiness": 0.046,
             "acousticness": 0.145,
             "instrumentalness": 0.836,
@@ -896,9 +896,9 @@
           "features": {
             "danceability": 0.642,
             "energy": 0.444,
-            "key": 9,
+
             "loudness": -15.608,
-            "mode": false,
+
             "speechiness": 0.0491,
             "acousticness": 0.612,
             "instrumentalness": 0.878,
@@ -917,9 +917,9 @@
           "features": {
             "danceability": 0.375,
             "energy": 0.304,
-            "key": 1,
+
             "loudness": -14.52,
-            "mode": true,
+
             "speechiness": 0.0302,
             "acousticness": 0.943,
             "instrumentalness": 0.303,
@@ -938,9 +938,9 @@
           "features": {
             "danceability": 0.533,
             "energy": 0.598,
-            "key": 5,
+
             "loudness": -9.18,
-            "mode": true,
+
             "speechiness": 0.0368,
             "acousticness": 0.0217,
             "instrumentalness": 0.633,
@@ -959,9 +959,9 @@
           "features": {
             "danceability": 0.523,
             "energy": 0.366,
-            "key": 9,
+
             "loudness": -14.147,
-            "mode": true,
+
             "speechiness": 0.0269,
             "acousticness": 0.964,
             "instrumentalness": 0.876,
@@ -980,9 +980,9 @@
           "features": {
             "danceability": 0.425,
             "energy": 0.784,
-            "key": 1,
+
             "loudness": -4.492,
-            "mode": true,
+
             "speechiness": 0.0353,
             "acousticness": 0.0597,
             "instrumentalness": 0.431,
@@ -1006,9 +1006,9 @@
           "features": {
             "danceability": 0.591,
             "energy": 0.9,
-            "key": 7,
+
             "loudness": -4.293,
-            "mode": false,
+
             "speechiness": 0.0872,
             "acousticness": 0.0136,
             "instrumentalness": 2.07e-6,
@@ -1027,9 +1027,9 @@
           "features": {
             "danceability": 0.49,
             "energy": 0.914,
-            "key": 10,
+
             "loudness": -3.202,
-            "mode": true,
+
             "speechiness": 0.167,
             "acousticness": 0.0227,
             "instrumentalness": 0,
@@ -1048,9 +1048,9 @@
           "features": {
             "danceability": 0.647,
             "energy": 0.946,
-            "key": 1,
+
             "loudness": -1.72,
-            "mode": true,
+
             "speechiness": 0.0767,
             "acousticness": 0.000122,
             "instrumentalness": 0.0355,
@@ -1069,9 +1069,9 @@
           "features": {
             "danceability": 0.516,
             "energy": 0.799,
-            "key": 10,
+
             "loudness": -4.213,
-            "mode": true,
+
             "speechiness": 0.0624,
             "acousticness": 0.0213,
             "instrumentalness": 2.01e-6,
@@ -1090,9 +1090,9 @@
           "features": {
             "danceability": 0.457,
             "energy": 0.714,
-            "key": 9,
+
             "loudness": -7.813,
-            "mode": true,
+
             "speechiness": 0.0518,
             "acousticness": 0.157,
             "instrumentalness": 0.000325,
@@ -1111,9 +1111,9 @@
           "features": {
             "danceability": 0.484,
             "energy": 0.94,
-            "key": 9,
+
             "loudness": -4.356,
-            "mode": false,
+
             "speechiness": 0.0632,
             "acousticness": 4.16e-5,
             "instrumentalness": 0.00344,
@@ -1132,9 +1132,9 @@
           "features": {
             "danceability": 0.614,
             "energy": 0.726,
-            "key": 11,
+
             "loudness": -6.441,
-            "mode": true,
+
             "speechiness": 0.096,
             "acousticness": 0.00869,
             "instrumentalness": 0.00131,
@@ -1153,9 +1153,9 @@
           "features": {
             "danceability": 0.58,
             "energy": 0.947,
-            "key": 2,
+
             "loudness": -0.881,
-            "mode": true,
+
             "speechiness": 0.0529,
             "acousticness": 0.000927,
             "instrumentalness": 0.0316,
@@ -1174,9 +1174,9 @@
           "features": {
             "danceability": 0.59,
             "energy": 0.916,
-            "key": 4,
+
             "loudness": -2.124,
-            "mode": true,
+
             "speechiness": 0.0532,
             "acousticness": 0.0262,
             "instrumentalness": 0,
@@ -1195,9 +1195,9 @@
           "features": {
             "danceability": 0.756,
             "energy": 0.81,
-            "key": 7,
+
             "loudness": -4.446,
-            "mode": true,
+
             "speechiness": 0.161,
             "acousticness": 0.261,
             "instrumentalness": 0,
@@ -1216,9 +1216,9 @@
           "features": {
             "danceability": 0.657,
             "energy": 0.712,
-            "key": 4,
+
             "loudness": -3.467,
-            "mode": true,
+
             "speechiness": 0.0319,
             "acousticness": 0.356,
             "instrumentalness": 0.000699,
@@ -1237,9 +1237,9 @@
           "features": {
             "danceability": 0.68,
             "energy": 0.533,
-            "key": 10,
+
             "loudness": -10.572,
-            "mode": false,
+
             "speechiness": 0.0391,
             "acousticness": 0.161,
             "instrumentalness": 0.753,
@@ -1258,9 +1258,9 @@
           "features": {
             "danceability": 0.491,
             "energy": 0.723,
-            "key": 8,
+
             "loudness": -7.449,
-            "mode": true,
+
             "speechiness": 0.0474,
             "acousticness": 0.0236,
             "instrumentalness": 0.547,
@@ -1279,9 +1279,9 @@
           "features": {
             "danceability": 0.818,
             "energy": 0.759,
-            "key": 2,
+
             "loudness": -5.327,
-            "mode": true,
+
             "speechiness": 0.267,
             "acousticness": 0.21,
             "instrumentalness": 0.000325,
@@ -1300,9 +1300,9 @@
           "features": {
             "danceability": 0.841,
             "energy": 0.741,
-            "key": 0,
+
             "loudness": -6.222,
-            "mode": false,
+
             "speechiness": 0.0392,
             "acousticness": 0.00474,
             "instrumentalness": 0.0121,
@@ -1321,9 +1321,9 @@
           "features": {
             "danceability": 0.716,
             "energy": 0.972,
-            "key": 7,
+
             "loudness": -2.302,
-            "mode": true,
+
             "speechiness": 0.196,
             "acousticness": 0.0145,
             "instrumentalness": 3.22e-5,
@@ -1342,9 +1342,9 @@
           "features": {
             "danceability": 0.675,
             "energy": 0.827,
-            "key": 8,
+
             "loudness": -4.292,
-            "mode": false,
+
             "speechiness": 0.0363,
             "acousticness": 0.00138,
             "instrumentalness": 0.865,
@@ -1363,9 +1363,9 @@
           "features": {
             "danceability": 0.764,
             "energy": 0.678,
-            "key": 6,
+
             "loudness": -6.631,
-            "mode": true,
+
             "speechiness": 0.177,
             "acousticness": 0.000997,
             "instrumentalness": 0.05,
@@ -1384,9 +1384,9 @@
           "features": {
             "danceability": 0.457,
             "energy": 0.839,
-            "key": 8,
+
             "loudness": -7.386,
-            "mode": false,
+
             "speechiness": 0.151,
             "acousticness": 0.00303,
             "instrumentalness": 6.49e-5,
@@ -1405,9 +1405,9 @@
           "features": {
             "danceability": 0.924,
             "energy": 0.596,
-            "key": 1,
+
             "loudness": -3.287,
-            "mode": true,
+
             "speechiness": 0.113,
             "acousticness": 0.0734,
             "instrumentalness": 0,
@@ -1432,9 +1432,9 @@
           "features": {
             "danceability": 0.45,
             "energy": 0.846,
-            "key": 9,
+
             "loudness": -4.712,
-            "mode": false,
+
             "speechiness": 0.0472,
             "acousticness": 0.00523,
             "instrumentalness": 0,
@@ -1453,9 +1453,9 @@
           "features": {
             "danceability": 0.475,
             "energy": 0.821,
-            "key": 8,
+
             "loudness": -5.669,
-            "mode": true,
+
             "speechiness": 0.0761,
             "acousticness": 0.004,
             "instrumentalness": 0.000768,
@@ -1474,9 +1474,9 @@
           "features": {
             "danceability": 0.597,
             "energy": 0.837,
-            "key": 10,
+
             "loudness": -6.518,
-            "mode": true,
+
             "speechiness": 0.375,
             "acousticness": 0.00427,
             "instrumentalness": 0.00114,
@@ -1495,9 +1495,9 @@
           "features": {
             "danceability": 0.645,
             "energy": 0.707,
-            "key": 1,
+
             "loudness": -6.615,
-            "mode": true,
+
             "speechiness": 0.0381,
             "acousticness": 0.00138,
             "instrumentalness": 0.00121,
@@ -1516,9 +1516,9 @@
           "features": {
             "danceability": 0.478,
             "energy": 0.893,
-            "key": 8,
+
             "loudness": -4.259,
-            "mode": false,
+
             "speechiness": 0.182,
             "acousticness": 0.00383,
             "instrumentalness": 0.467,
@@ -1537,9 +1537,9 @@
           "features": {
             "danceability": 0.45,
             "energy": 0.756,
-            "key": 1,
+
             "loudness": -6.307,
-            "mode": false,
+
             "speechiness": 0.0389,
             "acousticness": 0.108,
             "instrumentalness": 0.0205,
@@ -1558,9 +1558,9 @@
           "features": {
             "danceability": 0.458,
             "energy": 0.752,
-            "key": 0,
+
             "loudness": -6.302,
-            "mode": false,
+
             "speechiness": 0.0564,
             "acousticness": 0.0487,
             "instrumentalness": 1.87e-6,
@@ -1579,9 +1579,9 @@
           "features": {
             "danceability": 0.44,
             "energy": 0.792,
-            "key": 0,
+
             "loudness": -7.088,
-            "mode": false,
+
             "speechiness": 0.048,
             "acousticness": 0.014,
             "instrumentalness": 0.00138,
@@ -1600,9 +1600,9 @@
           "features": {
             "danceability": 0.467,
             "energy": 0.723,
-            "key": 0,
+
             "loudness": -7.101,
-            "mode": false,
+
             "speechiness": 0.0536,
             "acousticness": 0.117,
             "instrumentalness": 3.49e-6,
@@ -1621,9 +1621,9 @@
           "features": {
             "danceability": 0.509,
             "energy": 0.897,
-            "key": 8,
+
             "loudness": -3.418,
-            "mode": false,
+
             "speechiness": 0.0454,
             "acousticness": 0.0861,
             "instrumentalness": 0.000634,
@@ -1642,9 +1642,9 @@
           "features": {
             "danceability": 0.658,
             "energy": 0.573,
-            "key": 3,
+
             "loudness": -5.408,
-            "mode": false,
+
             "speechiness": 0.107,
             "acousticness": 0.023,
             "instrumentalness": 0.0613,
@@ -1663,9 +1663,9 @@
           "features": {
             "danceability": 0.443,
             "energy": 0.727,
-            "key": 0,
+
             "loudness": -5.171,
-            "mode": false,
+
             "speechiness": 0.0984,
             "acousticness": 0.0987,
             "instrumentalness": 9.35e-6,
@@ -1684,9 +1684,9 @@
           "features": {
             "danceability": 0.678,
             "energy": 0.588,
-            "key": 7,
+
             "loudness": -7.015,
-            "mode": true,
+
             "speechiness": 0.276,
             "acousticness": 0.141,
             "instrumentalness": 6.35e-6,
@@ -1705,9 +1705,9 @@
           "features": {
             "danceability": 0.732,
             "energy": 0.396,
-            "key": 4,
+
             "loudness": -9.348,
-            "mode": false,
+
             "speechiness": 0.0286,
             "acousticness": 0.0841,
             "instrumentalness": 3.58e-5,
@@ -1726,9 +1726,9 @@
           "features": {
             "danceability": 0.506,
             "energy": 0.954,
-            "key": 0,
+
             "loudness": -2.349,
-            "mode": false,
+
             "speechiness": 0.103,
             "acousticness": 0.00943,
             "instrumentalness": 0.00894,
@@ -1747,9 +1747,9 @@
           "features": {
             "danceability": 0.611,
             "energy": 0.697,
-            "key": 2,
+
             "loudness": -8.618,
-            "mode": true,
+
             "speechiness": 0.133,
             "acousticness": 0.0193,
             "instrumentalness": 0,
@@ -1768,9 +1768,9 @@
           "features": {
             "danceability": 0.866,
             "energy": 0.599,
-            "key": 2,
+
             "loudness": -7.903,
-            "mode": true,
+
             "speechiness": 0.163,
             "acousticness": 0.00917,
             "instrumentalness": 0,
@@ -1789,9 +1789,9 @@
           "features": {
             "danceability": 0.461,
             "energy": 0.505,
-            "key": 3,
+
             "loudness": -10.476,
-            "mode": false,
+
             "speechiness": 0.0406,
             "acousticness": 0.0548,
             "instrumentalness": 0.00024,
@@ -1810,9 +1810,9 @@
           "features": {
             "danceability": 0.574,
             "energy": 0.833,
-            "key": 9,
+
             "loudness": -6.581,
-            "mode": true,
+
             "speechiness": 0.0878,
             "acousticness": 0.00291,
             "instrumentalness": 0.00238,
@@ -1831,9 +1831,9 @@
           "features": {
             "danceability": 0.734,
             "energy": 0.808,
-            "key": 3,
+
             "loudness": -6.448,
-            "mode": false,
+
             "speechiness": 0.106,
             "acousticness": 0.189,
             "instrumentalness": 0.699,
@@ -1852,9 +1852,9 @@
           "features": {
             "danceability": 0.56,
             "energy": 0.846,
-            "key": 5,
+
             "loudness": -4.494,
-            "mode": false,
+
             "speechiness": 0.0466,
             "acousticness": 0.0703,
             "instrumentalness": 0.898,
@@ -1873,9 +1873,9 @@
           "features": {
             "danceability": 0.638,
             "energy": 0.711,
-            "key": 10,
+
             "loudness": -6.088,
-            "mode": false,
+
             "speechiness": 0.0668,
             "acousticness": 0.115,
             "instrumentalness": 0.5,
@@ -1894,9 +1894,9 @@
           "features": {
             "danceability": 0.422,
             "energy": 0.91,
-            "key": 9,
+
             "loudness": -4.052,
-            "mode": false,
+
             "speechiness": 0.0515,
             "acousticness": 0.000947,
             "instrumentalness": 0.654,
@@ -1915,9 +1915,9 @@
           "features": {
             "danceability": 0.439,
             "energy": 0.383,
-            "key": 8,
+
             "loudness": -5.347,
-            "mode": false,
+
             "speechiness": 0.0336,
             "acousticness": 0.0326,
             "instrumentalness": 0.000256,
@@ -1936,9 +1936,9 @@
           "features": {
             "danceability": 0.428,
             "energy": 0.689,
-            "key": 7,
+
             "loudness": -6.967,
-            "mode": false,
+
             "speechiness": 0.0359,
             "acousticness": 0.00315,
             "instrumentalness": 0.264,
@@ -1957,9 +1957,9 @@
           "features": {
             "danceability": 0.387,
             "energy": 0.973,
-            "key": 11,
+
             "loudness": -3.909,
-            "mode": true,
+
             "speechiness": 0.147,
             "acousticness": 0.00126,
             "instrumentalness": 0.467,
@@ -1978,9 +1978,9 @@
           "features": {
             "danceability": 0.598,
             "energy": 0.532,
-            "key": 3,
+
             "loudness": -6.833,
-            "mode": false,
+
             "speechiness": 0.0295,
             "acousticness": 0.0668,
             "instrumentalness": 3.22e-6,
@@ -1999,9 +1999,9 @@
           "features": {
             "danceability": 0.481,
             "energy": 0.967,
-            "key": 7,
+
             "loudness": -1.907,
-            "mode": false,
+
             "speechiness": 0.0726,
             "acousticness": 0.00137,
             "instrumentalness": 0.382,
@@ -2020,9 +2020,9 @@
           "features": {
             "danceability": 0.683,
             "energy": 0.604,
-            "key": 8,
+
             "loudness": -7.575,
-            "mode": true,
+
             "speechiness": 0.0983,
             "acousticness": 0.0431,
             "instrumentalness": 0.000491,
@@ -2041,9 +2041,9 @@
           "features": {
             "danceability": 0.607,
             "energy": 0.789,
-            "key": 9,
+
             "loudness": -8.87,
-            "mode": false,
+
             "speechiness": 0.0278,
             "acousticness": 0.46,
             "instrumentalness": 0.907,
@@ -2062,9 +2062,9 @@
           "features": {
             "danceability": 0.53,
             "energy": 0.69,
-            "key": 1,
+
             "loudness": -3.591,
-            "mode": false,
+
             "speechiness": 0.035,
             "acousticness": 0.114,
             "instrumentalness": 0.00217,
@@ -2083,9 +2083,9 @@
           "features": {
             "danceability": 0.522,
             "energy": 0.717,
-            "key": 9,
+
             "loudness": -6.482,
-            "mode": false,
+
             "speechiness": 0.0452,
             "acousticness": 0.00204,
             "instrumentalness": 0.685,
@@ -2104,9 +2104,9 @@
           "features": {
             "danceability": 0.491,
             "energy": 0.965,
-            "key": 8,
+
             "loudness": -2.923,
-            "mode": true,
+
             "speechiness": 0.0875,
             "acousticness": 0.000886,
             "instrumentalness": 0.00111,
@@ -2125,9 +2125,9 @@
           "features": {
             "danceability": 0.373,
             "energy": 0.734,
-            "key": 7,
+
             "loudness": -5.707,
-            "mode": false,
+
             "speechiness": 0.0658,
             "acousticness": 0.00128,
             "instrumentalness": 0.356,
@@ -2146,9 +2146,9 @@
           "features": {
             "danceability": 0.738,
             "energy": 0.782,
-            "key": 11,
+
             "loudness": -6.315,
-            "mode": false,
+
             "speechiness": 0.169,
             "acousticness": 0.143,
             "instrumentalness": 6.4e-6,
@@ -2167,9 +2167,9 @@
           "features": {
             "danceability": 0.675,
             "energy": 0.843,
-            "key": 11,
+
             "loudness": -5.205,
-            "mode": false,
+
             "speechiness": 0.3,
             "acousticness": 0.0358,
             "instrumentalness": 0.064,
@@ -2188,9 +2188,9 @@
           "features": {
             "danceability": 0.399,
             "energy": 0.63,
-            "key": 4,
+
             "loudness": -5.488,
-            "mode": false,
+
             "speechiness": 0.0421,
             "acousticness": 0.00084,
             "instrumentalness": 0.3,
@@ -2214,9 +2214,9 @@
           "features": {
             "danceability": 0.705,
             "energy": 0.811,
-            "key": 9,
+
             "loudness": -5.201,
-            "mode": true,
+
             "speechiness": 0.0285,
             "acousticness": 0.425,
             "instrumentalness": 6.15e-5,
@@ -2235,9 +2235,9 @@
           "features": {
             "danceability": 0.271,
             "energy": 0.766,
-            "key": 5,
+
             "loudness": -8.03,
-            "mode": true,
+
             "speechiness": 0.0329,
             "acousticness": 0.00217,
             "instrumentalness": 0.52,
@@ -2256,9 +2256,9 @@
           "features": {
             "danceability": 0.725,
             "energy": 0.803,
-            "key": 2,
+
             "loudness": -4.083,
-            "mode": true,
+
             "speechiness": 0.0337,
             "acousticness": 0.013,
             "instrumentalness": 3.66e-5,
@@ -2277,9 +2277,9 @@
           "features": {
             "danceability": 0.732,
             "energy": 0.396,
-            "key": 4,
+
             "loudness": -9.348,
-            "mode": false,
+
             "speechiness": 0.0286,
             "acousticness": 0.0841,
             "instrumentalness": 3.58e-5,
@@ -2298,9 +2298,9 @@
           "features": {
             "danceability": 0.52,
             "energy": 0.761,
-            "key": 4,
+
             "loudness": -3.093,
-            "mode": true,
+
             "speechiness": 0.0853,
             "acousticness": 0.256,
             "instrumentalness": 4.96e-6,
@@ -2319,9 +2319,9 @@
           "features": {
             "danceability": 0.505,
             "energy": 0.476,
-            "key": 2,
+
             "loudness": -12.897,
-            "mode": true,
+
             "speechiness": 0.0711,
             "acousticness": 0.25,
             "instrumentalness": 0.00915,
@@ -2340,9 +2340,9 @@
           "features": {
             "danceability": 0.622,
             "energy": 0.54,
-            "key": 5,
+
             "loudness": -13.99,
-            "mode": true,
+
             "speechiness": 0.0261,
             "acousticness": 0.017,
             "instrumentalness": 0.00771,
@@ -2361,9 +2361,9 @@
           "features": {
             "danceability": 0.638,
             "energy": 0.656,
-            "key": 5,
+
             "loudness": -9.049,
-            "mode": false,
+
             "speechiness": 0.0353,
             "acousticness": 0.589,
             "instrumentalness": 0.886,
@@ -2382,9 +2382,9 @@
           "features": {
             "danceability": 0.571,
             "energy": 0.8,
-            "key": 7,
+
             "loudness": -4.131,
-            "mode": true,
+
             "speechiness": 0.0292,
             "acousticness": 0.0101,
             "instrumentalness": 7.29e-5,
@@ -2403,9 +2403,9 @@
           "features": {
             "danceability": 0.588,
             "energy": 0.33,
-            "key": 0,
+
             "loudness": -8.263,
-            "mode": true,
+
             "speechiness": 0.0338,
             "acousticness": 0.265,
             "instrumentalness": 0.000769,
@@ -2424,9 +2424,9 @@
           "features": {
             "danceability": 0.44,
             "energy": 0.565,
-            "key": 7,
+
             "loudness": -11.657,
-            "mode": true,
+
             "speechiness": 0.121,
             "acousticness": 0.048,
             "instrumentalness": 0,
@@ -2445,9 +2445,9 @@
           "features": {
             "danceability": 0.775,
             "energy": 0.585,
-            "key": 10,
+
             "loudness": -9.516,
-            "mode": false,
+
             "speechiness": 0.0271,
             "acousticness": 0.0422,
             "instrumentalness": 0.619,
@@ -2466,9 +2466,9 @@
           "features": {
             "danceability": 0.575,
             "energy": 0.67,
-            "key": 7,
+
             "loudness": -10.39,
-            "mode": true,
+
             "speechiness": 0.0318,
             "acousticness": 0.343,
             "instrumentalness": 4.95e-6,
@@ -2487,9 +2487,9 @@
           "features": {
             "danceability": 0.435,
             "energy": 0.423,
-            "key": 11,
+
             "loudness": -8.795,
-            "mode": true,
+
             "speechiness": 0.024,
             "acousticness": 0.0916,
             "instrumentalness": 0.000659,
@@ -2508,9 +2508,9 @@
           "features": {
             "danceability": 0.775,
             "energy": 0.579,
-            "key": 10,
+
             "loudness": -5.435,
-            "mode": false,
+
             "speechiness": 0.0348,
             "acousticness": 0.00406,
             "instrumentalness": 0.0242,
@@ -2529,9 +2529,9 @@
           "features": {
             "danceability": 0.639,
             "energy": 0.495,
-            "key": 3,
+
             "loudness": -9.24,
-            "mode": true,
+
             "speechiness": 0.0255,
             "acousticness": 0.716,
             "instrumentalness": 0.743,
@@ -2550,9 +2550,9 @@
           "features": {
             "danceability": 0.553,
             "energy": 0.664,
-            "key": 8,
+
             "loudness": -7.417,
-            "mode": true,
+
             "speechiness": 0.0741,
             "acousticness": 0.0709,
             "instrumentalness": 0.0056,
@@ -2571,9 +2571,9 @@
           "features": {
             "danceability": 0.422,
             "energy": 0.745,
-            "key": 0,
+
             "loudness": -2.805,
-            "mode": true,
+
             "speechiness": 0.186,
             "acousticness": 0.211,
             "instrumentalness": 0,
@@ -2592,9 +2592,9 @@
           "features": {
             "danceability": 0.683,
             "energy": 0.604,
-            "key": 8,
+
             "loudness": -7.575,
-            "mode": true,
+
             "speechiness": 0.0983,
             "acousticness": 0.0431,
             "instrumentalness": 0.000491,
@@ -2613,9 +2613,9 @@
           "features": {
             "danceability": 0.719,
             "energy": 0.201,
-            "key": 8,
+
             "loudness": -12.953,
-            "mode": true,
+
             "speechiness": 0.0784,
             "acousticness": 0.598,
             "instrumentalness": 0.011,
@@ -2634,9 +2634,9 @@
           "features": {
             "danceability": 0.642,
             "energy": 0.444,
-            "key": 9,
+
             "loudness": -15.608,
-            "mode": false,
+
             "speechiness": 0.0491,
             "acousticness": 0.612,
             "instrumentalness": 0.878,
@@ -2655,9 +2655,9 @@
           "features": {
             "danceability": 0.819,
             "energy": 0.66,
-            "key": 0,
+
             "loudness": -10.942,
-            "mode": true,
+
             "speechiness": 0.0515,
             "acousticness": 0.0996,
             "instrumentalness": 0.693,
@@ -2681,9 +2681,9 @@
           "features": {
             "danceability": 0.518,
             "energy": 0.401,
-            "key": 9,
+
             "loudness": -7.583,
-            "mode": false,
+
             "speechiness": 0.0284,
             "acousticness": 0.642,
             "instrumentalness": 0.000185,
@@ -2702,9 +2702,9 @@
           "features": {
             "danceability": 0.544,
             "energy": 0.69,
-            "key": 6,
+
             "loudness": -5.723,
-            "mode": false,
+
             "speechiness": 0.0425,
             "acousticness": 0.012,
             "instrumentalness": 0.0095,
@@ -2723,9 +2723,9 @@
           "features": {
             "danceability": 0.612,
             "energy": 0.276,
-            "key": 7,
+
             "loudness": -11.932,
-            "mode": true,
+
             "speechiness": 0.0358,
             "acousticness": 0.898,
             "instrumentalness": 0.864,
@@ -2744,9 +2744,9 @@
           "features": {
             "danceability": 0.523,
             "energy": 0.438,
-            "key": 0,
+
             "loudness": -11.49,
-            "mode": false,
+
             "speechiness": 0.0356,
             "acousticness": 0.867,
             "instrumentalness": 0.0723,
@@ -2765,9 +2765,9 @@
           "features": {
             "danceability": 0.591,
             "energy": 0.323,
-            "key": 2,
+
             "loudness": -14.742,
-            "mode": false,
+
             "speechiness": 0.0467,
             "acousticness": 0.198,
             "instrumentalness": 0.292,
@@ -2786,9 +2786,9 @@
           "features": {
             "danceability": 0.423,
             "energy": 0.183,
-            "key": 9,
+
             "loudness": -13.517,
-            "mode": true,
+
             "speechiness": 0.0344,
             "acousticness": 0.715,
             "instrumentalness": 4.25e-5,
@@ -2807,9 +2807,9 @@
           "features": {
             "danceability": 0.475,
             "energy": 0.209,
-            "key": 0,
+
             "loudness": -14.442,
-            "mode": true,
+
             "speechiness": 0.0349,
             "acousticness": 0.935,
             "instrumentalness": 0.00332,
@@ -2828,9 +2828,9 @@
           "features": {
             "danceability": 0.477,
             "energy": 0.235,
-            "key": 0,
+
             "loudness": -14.38,
-            "mode": true,
+
             "speechiness": 0.0571,
             "acousticness": 0.84,
             "instrumentalness": 0.00043,
@@ -2849,9 +2849,9 @@
           "features": {
             "danceability": 0.315,
             "energy": 0.11,
-            "key": 3,
+
             "loudness": -20.94,
-            "mode": true,
+
             "speechiness": 0.0343,
             "acousticness": 0.974,
             "instrumentalness": 0.897,
@@ -2870,9 +2870,9 @@
           "features": {
             "danceability": 0.502,
             "energy": 0.212,
-            "key": 0,
+
             "loudness": -12.732,
-            "mode": false,
+
             "speechiness": 0.0653,
             "acousticness": 0.872,
             "instrumentalness": 0.000349,
@@ -2891,9 +2891,9 @@
           "features": {
             "danceability": 0.37,
             "energy": 0.0772,
-            "key": 0,
+
             "loudness": -19.322,
-            "mode": true,
+
             "speechiness": 0.0414,
             "acousticness": 0.642,
             "instrumentalness": 0.69,
@@ -2912,9 +2912,9 @@
           "features": {
             "danceability": 0.0891,
             "energy": 0.341,
-            "key": 10,
+
             "loudness": -12.681,
-            "mode": false,
+
             "speechiness": 0.046,
             "acousticness": 0.145,
             "instrumentalness": 0.836,
@@ -2940,9 +2940,9 @@
           "features": {
             "danceability": 0.345,
             "energy": 0.0581,
-            "key": 3,
+
             "loudness": -17.217,
-            "mode": true,
+
             "speechiness": 0.0374,
             "acousticness": 0.976,
             "instrumentalness": 0.000366,
@@ -2961,9 +2961,9 @@
           "features": {
             "danceability": 0.296,
             "energy": 0.27,
-            "key": 2,
+
             "loudness": -12.797,
-            "mode": true,
+
             "speechiness": 0.0322,
             "acousticness": 0.808,
             "instrumentalness": 0,
@@ -2986,9 +2986,8 @@
       "features": {
         "danceability": 0.345,
         "energy": 0.0581,
-        "key": 3,
+
         "loudness": -17.217,
-        "mode": true,
         "speechiness": 0.0374,
         "acousticness": 0.976,
         "instrumentalness": 0.000366,
@@ -3007,9 +3006,8 @@
       "features": {
         "danceability": 0.553,
         "energy": 0.664,
-        "key": 8,
+
         "loudness": -7.417,
-        "mode": true,
         "speechiness": 0.0741,
         "acousticness": 0.0709,
         "instrumentalness": 0.0056,
@@ -3028,9 +3026,8 @@
       "features": {
         "danceability": 0.533,
         "energy": 0.598,
-        "key": 5,
+
         "loudness": -9.18,
-        "mode": true,
         "speechiness": 0.0368,
         "acousticness": 0.0217,
         "instrumentalness": 0.633,
@@ -3049,9 +3046,9 @@
       "features": {
         "danceability": 0.652,
         "energy": 0.409,
-        "key": 9,
+
         "loudness": -12.768,
-        "mode": false,
+
         "speechiness": 0.0466,
         "acousticness": 0.393,
         "instrumentalness": 0.912,
@@ -3070,9 +3067,9 @@
       "features": {
         "danceability": 0.299,
         "energy": 0.0187,
-        "key": 1,
+
         "loudness": -35.792,
-        "mode": false,
+
         "speechiness": 0.0477,
         "acousticness": 0.995,
         "instrumentalness": 0.912,
@@ -3091,9 +3088,8 @@
       "features": {
         "danceability": 0.601,
         "energy": 0.499,
-        "key": 6,
+
         "loudness": -11.131,
-        "mode": true,
         "speechiness": 0.0343,
         "acousticness": 0.815,
         "instrumentalness": 0.712,
@@ -3112,9 +3108,8 @@
       "features": {
         "danceability": 0.745,
         "energy": 0.356,
-        "key": 1,
+
         "loudness": -10.425,
-        "mode": true,
         "speechiness": 0.0941,
         "acousticness": 0.172,
         "instrumentalness": 0.00943,
@@ -3133,9 +3128,8 @@
       "features": {
         "danceability": 0.546,
         "energy": 0.889,
-        "key": 0,
+
         "loudness": -9.965,
-        "mode": true,
         "speechiness": 0.0376,
         "acousticness": 0.00538,
         "instrumentalness": 0.422,
@@ -3154,9 +3148,8 @@
       "features": {
         "danceability": 0.351,
         "energy": 0.793,
-        "key": 9,
+
         "loudness": -9.093,
-        "mode": true,
         "speechiness": 0.0368,
         "acousticness": 0.133,
         "instrumentalness": 0.779,
@@ -3175,9 +3168,9 @@
       "features": {
         "danceability": 0.749,
         "energy": 0.477,
-        "key": 0,
+
         "loudness": -6.192,
-        "mode": false,
+
         "speechiness": 0.0348,
         "acousticness": 0.487,
         "instrumentalness": 0.908,
@@ -3196,9 +3189,9 @@
       "features": {
         "danceability": 0.399,
         "energy": 0.63,
-        "key": 4,
+
         "loudness": -5.488,
-        "mode": false,
+
         "speechiness": 0.0421,
         "acousticness": 0.00084,
         "instrumentalness": 0.3,
@@ -3217,9 +3210,9 @@
       "features": {
         "danceability": 0.735,
         "energy": 0.555,
-        "key": 1,
+
         "loudness": -8.84,
-        "mode": false,
+
         "speechiness": 0.0366,
         "acousticness": 0.382,
         "instrumentalness": 0.856,
@@ -3238,9 +3231,8 @@
       "features": {
         "danceability": 0.764,
         "energy": 0.678,
-        "key": 6,
+
         "loudness": -6.631,
-        "mode": true,
         "speechiness": 0.177,
         "acousticness": 0.000997,
         "instrumentalness": 0.05,
@@ -3259,9 +3251,9 @@
       "features": {
         "danceability": 0.841,
         "energy": 0.741,
-        "key": 0,
+
         "loudness": -6.222,
-        "mode": false,
+
         "speechiness": 0.0392,
         "acousticness": 0.00474,
         "instrumentalness": 0.0121,
@@ -3280,9 +3272,8 @@
       "features": {
         "danceability": 0.818,
         "energy": 0.759,
-        "key": 2,
+
         "loudness": -5.327,
-        "mode": true,
         "speechiness": 0.267,
         "acousticness": 0.21,
         "instrumentalness": 0.000325,
@@ -3301,9 +3292,8 @@
       "features": {
         "danceability": 0.756,
         "energy": 0.81,
-        "key": 7,
+
         "loudness": -4.446,
-        "mode": true,
         "speechiness": 0.161,
         "acousticness": 0.261,
         "instrumentalness": 0,
@@ -3322,9 +3312,8 @@
       "features": {
         "danceability": 0.59,
         "energy": 0.916,
-        "key": 4,
+
         "loudness": -2.124,
-        "mode": true,
         "speechiness": 0.0532,
         "acousticness": 0.0262,
         "instrumentalness": 0,
@@ -3343,9 +3332,8 @@
       "features": {
         "danceability": 0.58,
         "energy": 0.947,
-        "key": 2,
+
         "loudness": -0.881,
-        "mode": true,
         "speechiness": 0.0529,
         "acousticness": 0.000927,
         "instrumentalness": 0.0316,
@@ -3364,9 +3352,8 @@
       "features": {
         "danceability": 0.614,
         "energy": 0.726,
-        "key": 11,
+
         "loudness": -6.441,
-        "mode": true,
         "speechiness": 0.096,
         "acousticness": 0.00869,
         "instrumentalness": 0.00131,
@@ -3385,9 +3372,9 @@
       "features": {
         "danceability": 0.484,
         "energy": 0.94,
-        "key": 9,
+
         "loudness": -4.356,
-        "mode": false,
+
         "speechiness": 0.0632,
         "acousticness": 4.16e-5,
         "instrumentalness": 0.00344,
@@ -3406,9 +3393,8 @@
       "features": {
         "danceability": 0.457,
         "energy": 0.714,
-        "key": 9,
+
         "loudness": -7.813,
-        "mode": true,
         "speechiness": 0.0518,
         "acousticness": 0.157,
         "instrumentalness": 0.000325,
@@ -3427,9 +3413,8 @@
       "features": {
         "danceability": 0.647,
         "energy": 0.946,
-        "key": 1,
+
         "loudness": -1.72,
-        "mode": true,
         "speechiness": 0.0767,
         "acousticness": 0.000122,
         "instrumentalness": 0.0355,
@@ -3448,9 +3433,9 @@
       "features": {
         "danceability": 0.591,
         "energy": 0.9,
-        "key": 7,
+
         "loudness": -4.293,
-        "mode": false,
+
         "speechiness": 0.0872,
         "acousticness": 0.0136,
         "instrumentalness": 2.07e-6,
@@ -3469,9 +3454,8 @@
       "features": {
         "danceability": 0.904,
         "energy": 0.724,
-        "key": 1,
+
         "loudness": -5.038,
-        "mode": true,
         "speechiness": 0.0452,
         "acousticness": 0.336,
         "instrumentalness": 0,
@@ -3490,9 +3474,8 @@
       "features": {
         "danceability": 0.794,
         "energy": 0.632,
-        "key": 0,
+
         "loudness": -6.163,
-        "mode": true,
         "speechiness": 0.0649,
         "acousticness": 0.142,
         "instrumentalness": 0,
@@ -3511,9 +3494,9 @@
       "features": {
         "danceability": 0.502,
         "energy": 0.212,
-        "key": 0,
+
         "loudness": -12.732,
-        "mode": false,
+
         "speechiness": 0.0653,
         "acousticness": 0.872,
         "instrumentalness": 0.000349,
@@ -3532,9 +3515,8 @@
       "features": {
         "danceability": 0.435,
         "energy": 0.784,
-        "key": 10,
+
         "loudness": -5.533,
-        "mode": true,
         "speechiness": 0.0481,
         "acousticness": 0.0243,
         "instrumentalness": 0.111,
@@ -3553,9 +3535,8 @@
       "features": {
         "danceability": 0.573,
         "energy": 0.831,
-        "key": 7,
+
         "loudness": -5.586,
-        "mode": true,
         "speechiness": 0.433,
         "acousticness": 0.0401,
         "instrumentalness": 0,
@@ -3574,9 +3555,9 @@
       "features": {
         "danceability": 0.796,
         "energy": 0.748,
-        "key": 5,
+
         "loudness": -5.409,
-        "mode": false,
+
         "speechiness": 0.126,
         "acousticness": 0.321,
         "instrumentalness": 4.94e-5,
@@ -3595,9 +3576,8 @@
       "features": {
         "danceability": 0.296,
         "energy": 0.27,
-        "key": 2,
+
         "loudness": -12.797,
-        "mode": true,
         "speechiness": 0.0322,
         "acousticness": 0.808,
         "instrumentalness": 0,
@@ -3616,9 +3596,9 @@
       "features": {
         "danceability": 0.437,
         "energy": 0.129,
-        "key": 7,
+
         "loudness": -17.954,
-        "mode": false,
+
         "speechiness": 0.0381,
         "acousticness": 0.211,
         "instrumentalness": 0.872,
@@ -3637,9 +3617,9 @@
       "features": {
         "danceability": 0.581,
         "energy": 0.525,
-        "key": 11,
+
         "loudness": -5.643,
-        "mode": false,
+
         "speechiness": 0.0346,
         "acousticness": 0.37,
         "instrumentalness": 0.0012,
@@ -3658,9 +3638,8 @@
       "features": {
         "danceability": 0.586,
         "energy": 0.617,
-        "key": 4,
+
         "loudness": -12.994,
-        "mode": true,
         "speechiness": 0.222,
         "acousticness": 0.817,
         "instrumentalness": 0.875,
@@ -3679,9 +3658,9 @@
       "features": {
         "danceability": 0.452,
         "energy": 0.737,
-        "key": 2,
+
         "loudness": -6.659,
-        "mode": false,
+
         "speechiness": 0.0356,
         "acousticness": 0.0349,
         "instrumentalness": 0.0246,
@@ -3700,9 +3679,9 @@
       "features": {
         "danceability": 0.72,
         "energy": 0.488,
-        "key": 5,
+
         "loudness": -10.6,
-        "mode": false,
+
         "speechiness": 0.0349,
         "acousticness": 0.353,
         "instrumentalness": 0.855,
@@ -3721,9 +3700,8 @@
       "features": {
         "danceability": 0.615,
         "energy": 0.433,
-        "key": 1,
+
         "loudness": -11.675,
-        "mode": true,
         "speechiness": 0.0927,
         "acousticness": 0.0131,
         "instrumentalness": 0.832,
@@ -3742,9 +3720,8 @@
       "features": {
         "danceability": 0.819,
         "energy": 0.66,
-        "key": 0,
+
         "loudness": -10.942,
-        "mode": true,
         "speechiness": 0.0515,
         "acousticness": 0.0996,
         "instrumentalness": 0.693,
@@ -3763,9 +3740,8 @@
       "features": {
         "danceability": 0.578,
         "energy": 0.835,
-        "key": 4,
+
         "loudness": -5.025,
-        "mode": true,
         "speechiness": 0.0359,
         "acousticness": 1.02e-5,
         "instrumentalness": 1.54e-5,
@@ -3784,9 +3760,8 @@
       "features": {
         "danceability": 0.523,
         "energy": 0.366,
-        "key": 9,
+
         "loudness": -14.147,
-        "mode": true,
         "speechiness": 0.0269,
         "acousticness": 0.964,
         "instrumentalness": 0.876,
@@ -3805,9 +3780,8 @@
       "features": {
         "danceability": 0.86,
         "energy": 0.583,
-        "key": 8,
+
         "loudness": -4.418,
-        "mode": true,
         "speechiness": 0.256,
         "acousticness": 0.0242,
         "instrumentalness": 2.66e-6,
@@ -3826,9 +3800,8 @@
       "features": {
         "danceability": 0.268,
         "energy": 0.742,
-        "key": 5,
+
         "loudness": -4.939,
-        "mode": true,
         "speechiness": 0.0355,
         "acousticness": 0.0518,
         "instrumentalness": 0,
@@ -3847,9 +3820,8 @@
       "features": {
         "danceability": 0.716,
         "energy": 0.972,
-        "key": 7,
+
         "loudness": -2.302,
-        "mode": true,
         "speechiness": 0.196,
         "acousticness": 0.0145,
         "instrumentalness": 3.22e-5,
@@ -3868,9 +3840,8 @@
       "features": {
         "danceability": 0.835,
         "energy": 0.706,
-        "key": 5,
+
         "loudness": -3.219,
-        "mode": true,
         "speechiness": 0.193,
         "acousticness": 0.104,
         "instrumentalness": 0,
@@ -3889,9 +3860,8 @@
       "features": {
         "danceability": 0.664,
         "energy": 0.679,
-        "key": 5,
+
         "loudness": -8.293,
-        "mode": true,
         "speechiness": 0.03,
         "acousticness": 0.149,
         "instrumentalness": 4.84e-5,
@@ -3910,9 +3880,8 @@
       "features": {
         "danceability": 0.525,
         "energy": 0.705,
-        "key": 8,
+
         "loudness": -7.331,
-        "mode": true,
         "speechiness": 0.164,
         "acousticness": 0.456,
         "instrumentalness": 0.0593,
@@ -3931,9 +3900,9 @@
       "features": {
         "danceability": 0.586,
         "energy": 0.701,
-        "key": 1,
+
         "loudness": -5.326,
-        "mode": false,
+
         "speechiness": 0.0416,
         "acousticness": 0.0203,
         "instrumentalness": 0,
@@ -3952,9 +3921,8 @@
       "features": {
         "danceability": 0.634,
         "energy": 0.711,
-        "key": 11,
+
         "loudness": -6.187,
-        "mode": true,
         "speechiness": 0.0457,
         "acousticness": 0.0933,
         "instrumentalness": 0.0309,
@@ -3973,9 +3941,8 @@
       "features": {
         "danceability": 0.817,
         "energy": 0.654,
-        "key": 8,
+
         "loudness": -6.786,
-        "mode": true,
         "speechiness": 0.193,
         "acousticness": 0.164,
         "instrumentalness": 0.00194,
@@ -3994,9 +3961,8 @@
       "features": {
         "danceability": 0.559,
         "energy": 0.345,
-        "key": 4,
+
         "loudness": -13.496,
-        "mode": true,
         "speechiness": 0.0459,
         "acousticness": 0.0576,
         "instrumentalness": 0.000105,
@@ -4015,9 +3981,9 @@
       "features": {
         "danceability": 0.642,
         "energy": 0.444,
-        "key": 9,
+
         "loudness": -15.608,
-        "mode": false,
+
         "speechiness": 0.0491,
         "acousticness": 0.612,
         "instrumentalness": 0.878,
@@ -4036,9 +4002,8 @@
       "features": {
         "danceability": 0.597,
         "energy": 0.837,
-        "key": 10,
+
         "loudness": -6.518,
-        "mode": true,
         "speechiness": 0.375,
         "acousticness": 0.00427,
         "instrumentalness": 0.00114,
@@ -4057,9 +4022,9 @@
       "features": {
         "danceability": 0.7,
         "energy": 0.644,
-        "key": 1,
+
         "loudness": -6.621,
-        "mode": false,
+
         "speechiness": 0.236,
         "acousticness": 0.337,
         "instrumentalness": 0,
@@ -4078,9 +4043,9 @@
       "features": {
         "danceability": 0.779,
         "energy": 0.87,
-        "key": 5,
+
         "loudness": -13.141,
-        "mode": false,
+
         "speechiness": 0.0574,
         "acousticness": 0.00644,
         "instrumentalness": 0.0107,
@@ -4099,9 +4064,8 @@
       "features": {
         "danceability": 0.807,
         "energy": 0.487,
-        "key": 9,
+
         "loudness": -10.456,
-        "mode": true,
         "speechiness": 0.0758,
         "acousticness": 0.0102,
         "instrumentalness": 1.98e-6,
@@ -4120,9 +4084,9 @@
       "features": {
         "danceability": 0.556,
         "energy": 0.45,
-        "key": 6,
+
         "loudness": -11.819,
-        "mode": false,
+
         "speechiness": 0.0309,
         "acousticness": 0.538,
         "instrumentalness": 0.894,
@@ -4141,9 +4105,9 @@
       "features": {
         "danceability": 0.159,
         "energy": 0.0672,
-        "key": 5,
+
         "loudness": -17.477,
-        "mode": false,
+
         "speechiness": 0.0405,
         "acousticness": 0.979,
         "instrumentalness": 0.92,
@@ -4162,9 +4126,8 @@
       "features": {
         "danceability": 0.243,
         "energy": 0.299,
-        "key": 5,
+
         "loudness": -13.986,
-        "mode": true,
         "speechiness": 0.0308,
         "acousticness": 0.905,
         "instrumentalness": 0.953,
@@ -4183,9 +4146,9 @@
       "features": {
         "danceability": 0.0891,
         "energy": 0.341,
-        "key": 10,
+
         "loudness": -12.681,
-        "mode": false,
+
         "speechiness": 0.046,
         "acousticness": 0.145,
         "instrumentalness": 0.836,
@@ -4211,9 +4174,9 @@
       "features": {
         "danceability": 0.42,
         "energy": 0.468,
-        "key": 9,
+
         "loudness": -12.234,
-        "mode": false,
+
         "speechiness": 0.0493,
         "acousticness": 0.866,
         "instrumentalness": 0.778,
@@ -4232,9 +4195,9 @@
       "features": {
         "danceability": 0.773,
         "energy": 0.819,
-        "key": 0,
+
         "loudness": -5.946,
-        "mode": false,
+
         "speechiness": 0.118,
         "acousticness": 0.426,
         "instrumentalness": 0,
@@ -4253,9 +4216,9 @@
       "features": {
         "danceability": 0.387,
         "energy": 0.376,
-        "key": 9,
+
         "loudness": -6.743,
-        "mode": false,
+
         "speechiness": 0.0338,
         "acousticness": 0.881,
         "instrumentalness": 0,
@@ -4274,9 +4237,8 @@
       "features": {
         "danceability": 0.519,
         "energy": 0.372,
-        "key": 1,
+
         "loudness": -12.635,
-        "mode": true,
         "speechiness": 0.0284,
         "acousticness": 0.0816,
         "instrumentalness": 4.67e-5,
@@ -4295,9 +4257,9 @@
       "features": {
         "danceability": 0.382,
         "energy": 0.589,
-        "key": 9,
+
         "loudness": -7.315,
-        "mode": false,
+
         "speechiness": 0.0267,
         "acousticness": 0.0465,
         "instrumentalness": 0,
@@ -4316,9 +4278,8 @@
       "features": {
         "danceability": 0.654,
         "energy": 0.556,
-        "key": 2,
+
         "loudness": -5.653,
-        "mode": true,
         "speechiness": 0.0435,
         "acousticness": 0.098,
         "instrumentalness": 0.0524,
@@ -4337,9 +4298,8 @@
       "features": {
         "danceability": 0.631,
         "energy": 0.454,
-        "key": 1,
+
         "loudness": -13.646,
-        "mode": true,
         "speechiness": 0.0435,
         "acousticness": 0.13,
         "instrumentalness": 0.235,
@@ -4358,9 +4318,8 @@
       "features": {
         "danceability": 0.87,
         "energy": 0.643,
-        "key": 5,
+
         "loudness": -4.804,
-        "mode": true,
         "speechiness": 0.0403,
         "acousticness": 0.149,
         "instrumentalness": 0.00171,
@@ -4379,9 +4338,8 @@
       "features": {
         "danceability": 0.645,
         "energy": 0.17,
-        "key": 0,
+
         "loudness": -17.377,
-        "mode": true,
         "speechiness": 0.0408,
         "acousticness": 0.861,
         "instrumentalness": 0.176,
@@ -4400,9 +4358,8 @@
       "features": {
         "danceability": 0.581,
         "energy": 0.163,
-        "key": 5,
+
         "loudness": -14.686,
-        "mode": true,
         "speechiness": 0.0447,
         "acousticness": 0.923,
         "instrumentalness": 0,
@@ -4421,9 +4378,9 @@
       "features": {
         "danceability": 0.675,
         "energy": 0.843,
-        "key": 11,
+
         "loudness": -5.205,
-        "mode": false,
+
         "speechiness": 0.3,
         "acousticness": 0.0358,
         "instrumentalness": 0.064,
@@ -4442,9 +4399,9 @@
       "features": {
         "danceability": 0.738,
         "energy": 0.782,
-        "key": 11,
+
         "loudness": -6.315,
-        "mode": false,
+
         "speechiness": 0.169,
         "acousticness": 0.143,
         "instrumentalness": 6.4e-6,
@@ -4463,9 +4420,9 @@
       "features": {
         "danceability": 0.373,
         "energy": 0.734,
-        "key": 7,
+
         "loudness": -5.707,
-        "mode": false,
+
         "speechiness": 0.0658,
         "acousticness": 0.00128,
         "instrumentalness": 0.356,
@@ -4484,9 +4441,9 @@
       "features": {
         "danceability": 0.547,
         "energy": 0.685,
-        "key": 5,
+
         "loudness": -7.198,
-        "mode": false,
+
         "speechiness": 0.0428,
         "acousticness": 0.00536,
         "instrumentalness": 0.00239,
@@ -4505,9 +4462,9 @@
       "features": {
         "danceability": 0.522,
         "energy": 0.717,
-        "key": 9,
+
         "loudness": -6.482,
-        "mode": false,
+
         "speechiness": 0.0452,
         "acousticness": 0.00204,
         "instrumentalness": 0.685,
@@ -4526,9 +4483,9 @@
       "features": {
         "danceability": 0.756,
         "energy": 0.695,
-        "key": 10,
+
         "loudness": -5.006,
-        "mode": false,
+
         "speechiness": 0.0373,
         "acousticness": 0.0938,
         "instrumentalness": 8.91e-5,
@@ -4547,9 +4504,9 @@
       "features": {
         "danceability": 0.564,
         "energy": 0.668,
-        "key": 0,
+
         "loudness": -7.047,
-        "mode": false,
+
         "speechiness": 0.199,
         "acousticness": 0.0362,
         "instrumentalness": 4.06e-5,
@@ -4568,9 +4525,9 @@
       "features": {
         "danceability": 0.583,
         "energy": 0.473,
-        "key": 4,
+
         "loudness": -8.627,
-        "mode": false,
+
         "speechiness": 0.0354,
         "acousticness": 0.647,
         "instrumentalness": 0.0084,
@@ -4589,9 +4546,8 @@
       "features": {
         "danceability": 0.719,
         "energy": 0.201,
-        "key": 8,
+
         "loudness": -12.953,
-        "mode": true,
         "speechiness": 0.0784,
         "acousticness": 0.598,
         "instrumentalness": 0.011,
@@ -4610,9 +4566,8 @@
       "features": {
         "danceability": 0.58,
         "energy": 0.819,
-        "key": 8,
+
         "loudness": -8.177,
-        "mode": true,
         "speechiness": 0.0413,
         "acousticness": 0.00442,
         "instrumentalness": 0.957,
@@ -4631,9 +4586,8 @@
       "features": {
         "danceability": 0.533,
         "energy": 0.598,
-        "key": 5,
+
         "loudness": -9.18,
-        "mode": true,
         "speechiness": 0.0368,
         "acousticness": 0.0217,
         "instrumentalness": 0.633,
@@ -4652,9 +4606,9 @@
       "features": {
         "danceability": 0.195,
         "energy": 0.604,
-        "key": 10,
+
         "loudness": -10.238,
-        "mode": false,
+
         "speechiness": 0.0383,
         "acousticness": 0.583,
         "instrumentalness": 0.893,
@@ -4673,9 +4627,9 @@
       "features": {
         "danceability": 0.652,
         "energy": 0.795,
-        "key": 11,
+
         "loudness": -5.192,
-        "mode": false,
+
         "speechiness": 0.174,
         "acousticness": 0.156,
         "instrumentalness": 0,
@@ -4694,9 +4648,8 @@
       "features": {
         "danceability": 0.241,
         "energy": 0.46,
-        "key": 3,
+
         "loudness": -9.22,
-        "mode": true,
         "speechiness": 0.0306,
         "acousticness": 0.123,
         "instrumentalness": 0.91,
@@ -4715,9 +4668,9 @@
       "features": {
         "danceability": 0.53,
         "energy": 0.69,
-        "key": 1,
+
         "loudness": -3.591,
-        "mode": false,
+
         "speechiness": 0.035,
         "acousticness": 0.114,
         "instrumentalness": 0.00217,
@@ -4736,9 +4689,9 @@
       "features": {
         "danceability": 0.496,
         "energy": 0.833,
-        "key": 8,
+
         "loudness": -4.058,
-        "mode": false,
+
         "speechiness": 0.0835,
         "acousticness": 0.00216,
         "instrumentalness": 1.62e-6,
@@ -4757,9 +4710,9 @@
       "features": {
         "danceability": 0.397,
         "energy": 0.351,
-        "key": 1,
+
         "loudness": -10.708,
-        "mode": false,
+
         "speechiness": 0.0285,
         "acousticness": 0.818,
         "instrumentalness": 0.021,
@@ -4778,9 +4731,8 @@
       "features": {
         "danceability": 0.264,
         "energy": 0.128,
-        "key": 9,
+
         "loudness": -15.443,
-        "mode": true,
         "speechiness": 0.034,
         "acousticness": 0.885,
         "instrumentalness": 0.352,
@@ -4799,9 +4751,9 @@
       "features": {
         "danceability": 0.818,
         "energy": 0.381,
-        "key": 8,
+
         "loudness": -8.241,
-        "mode": false,
+
         "speechiness": 0.153,
         "acousticness": 0.067,
         "instrumentalness": 0.0267,
@@ -4820,9 +4772,9 @@
       "features": {
         "danceability": 0.707,
         "energy": 0.514,
-        "key": 9,
+
         "loudness": -8.885,
-        "mode": false,
+
         "speechiness": 0.0281,
         "acousticness": 0.58,
         "instrumentalness": 0.000159,
@@ -4841,9 +4793,8 @@
       "features": {
         "danceability": 0.557,
         "energy": 0.54,
-        "key": 9,
+
         "loudness": -10.484,
-        "mode": true,
         "speechiness": 0.0347,
         "acousticness": 0.0339,
         "instrumentalness": 0.00248,
@@ -4862,9 +4813,9 @@
       "features": {
         "danceability": 0.443,
         "energy": 0.403,
-        "key": 0,
+
         "loudness": -8.339,
-        "mode": true,
+
         "speechiness": 0.0322,
         "acousticness": 0.631,
         "instrumentalness": 0,
@@ -4883,9 +4834,9 @@
       "features": {
         "danceability": 0.273,
         "energy": 0.102,
-        "key": 0,
+
         "loudness": -16.843,
-        "mode": false,
+
         "speechiness": 0.0494,
         "acousticness": 0.903,
         "instrumentalness": 0.721,
@@ -4904,9 +4855,9 @@
       "features": {
         "danceability": 0.607,
         "energy": 0.789,
-        "key": 9,
+
         "loudness": -8.87,
-        "mode": false,
+
         "speechiness": 0.0278,
         "acousticness": 0.46,
         "instrumentalness": 0.907,
@@ -4925,9 +4876,9 @@
       "features": {
         "danceability": 0.421,
         "energy": 0.547,
-        "key": 2,
+
         "loudness": -9.052,
-        "mode": true,
+
         "speechiness": 0.0281,
         "acousticness": 0.295,
         "instrumentalness": 0.413,
@@ -4946,9 +4897,9 @@
       "features": {
         "danceability": 0.481,
         "energy": 0.967,
-        "key": 7,
+
         "loudness": -1.907,
-        "mode": false,
+
         "speechiness": 0.0726,
         "acousticness": 0.00137,
         "instrumentalness": 0.382,
@@ -4967,9 +4918,9 @@
       "features": {
         "danceability": 0.683,
         "energy": 0.604,
-        "key": 8,
+
         "loudness": -7.575,
-        "mode": true,
+
         "speechiness": 0.0983,
         "acousticness": 0.0431,
         "instrumentalness": 0.000491,
@@ -4988,9 +4939,9 @@
       "features": {
         "danceability": 0.669,
         "energy": 0.511,
-        "key": 0,
+
         "loudness": -11.016,
-        "mode": true,
+
         "speechiness": 0.0291,
         "acousticness": 0.313,
         "instrumentalness": 0,
@@ -5009,9 +4960,9 @@
       "features": {
         "danceability": 0.491,
         "energy": 0.965,
-        "key": 8,
+
         "loudness": -2.923,
-        "mode": true,
+
         "speechiness": 0.0875,
         "acousticness": 0.000886,
         "instrumentalness": 0.00111,
@@ -5030,9 +4981,9 @@
       "features": {
         "danceability": 0.175,
         "energy": 0.143,
-        "key": 3,
+
         "loudness": -17.439,
-        "mode": false,
+
         "speechiness": 0.0412,
         "acousticness": 0.937,
         "instrumentalness": 0.933,
@@ -5051,9 +5002,9 @@
       "features": {
         "danceability": 0.45,
         "energy": 0.658,
-        "key": 2,
+
         "loudness": -7.064,
-        "mode": true,
+
         "speechiness": 0.0472,
         "acousticness": 0.648,
         "instrumentalness": 3.14e-6,
@@ -5072,9 +5023,9 @@
       "features": {
         "danceability": 0.64,
         "energy": 0.74,
-        "key": 4,
+
         "loudness": -4.083,
-        "mode": true,
+
         "speechiness": 0.0284,
         "acousticness": 0.0115,
         "instrumentalness": 0.00678,
@@ -5093,9 +5044,9 @@
       "features": {
         "danceability": 0.477,
         "energy": 0.235,
-        "key": 0,
+
         "loudness": -14.38,
-        "mode": true,
+
         "speechiness": 0.0571,
         "acousticness": 0.84,
         "instrumentalness": 0.00043,
@@ -5114,9 +5065,9 @@
       "features": {
         "danceability": 0.587,
         "energy": 0.726,
-        "key": 1,
+
         "loudness": -6.263,
-        "mode": true,
+
         "speechiness": 0.214,
         "acousticness": 0.216,
         "instrumentalness": 0,
@@ -5135,9 +5086,9 @@
       "features": {
         "danceability": 0.814,
         "energy": 0.764,
-        "key": 0,
+
         "loudness": -7.944,
-        "mode": false,
+
         "speechiness": 0.053,
         "acousticness": 0.0794,
         "instrumentalness": 0.0174,
@@ -5156,9 +5107,9 @@
       "features": {
         "danceability": 0.599,
         "energy": 0.36,
-        "key": 5,
+
         "loudness": -10.347,
-        "mode": false,
+
         "speechiness": 0.032,
         "acousticness": 0.633,
         "instrumentalness": 5.44e-5,
@@ -5177,9 +5128,9 @@
       "features": {
         "danceability": 0.488,
         "energy": 0.761,
-        "key": 0,
+
         "loudness": -4.097,
-        "mode": true,
+
         "speechiness": 0.043,
         "acousticness": 0.0136,
         "instrumentalness": 0.24,
@@ -5198,9 +5149,9 @@
       "features": {
         "danceability": 0.775,
         "energy": 0.585,
-        "key": 10,
+
         "loudness": -9.516,
-        "mode": false,
+
         "speechiness": 0.0271,
         "acousticness": 0.0422,
         "instrumentalness": 0.619,
@@ -5219,9 +5170,9 @@
       "features": {
         "danceability": 0.517,
         "energy": 0.749,
-        "key": 9,
+
         "loudness": -6.622,
-        "mode": true,
+
         "speechiness": 0.0556,
         "acousticness": 0.0465,
         "instrumentalness": 0.000648,
@@ -5240,9 +5191,9 @@
       "features": {
         "danceability": 0.495,
         "energy": 0.68,
-        "key": 0,
+
         "loudness": -8.138,
-        "mode": true,
+
         "speechiness": 0.0458,
         "acousticness": 0.25,
         "instrumentalness": 1.61e-6,
@@ -5261,9 +5212,9 @@
       "features": {
         "danceability": 0.753,
         "energy": 0.749,
-        "key": 1,
+
         "loudness": -6.132,
-        "mode": false,
+
         "speechiness": 0.316,
         "acousticness": 0.0285,
         "instrumentalness": 0,
@@ -5282,9 +5233,9 @@
       "features": {
         "danceability": 0.356,
         "energy": 0.399,
-        "key": 0,
+
         "loudness": -11.119,
-        "mode": true,
+
         "speechiness": 0.0423,
         "acousticness": 0.0562,
         "instrumentalness": 0.926,
@@ -5303,9 +5254,9 @@
       "features": {
         "danceability": 0.387,
         "energy": 0.973,
-        "key": 11,
+
         "loudness": -3.909,
-        "mode": true,
+
         "speechiness": 0.147,
         "acousticness": 0.00126,
         "instrumentalness": 0.467,
@@ -5324,9 +5275,9 @@
       "features": {
         "danceability": 0.909,
         "energy": 0.628,
-        "key": 2,
+
         "loudness": -5.456,
-        "mode": true,
+
         "speechiness": 0.201,
         "acousticness": 0.0739,
         "instrumentalness": 0,
@@ -5345,9 +5296,9 @@
       "features": {
         "danceability": 0.489,
         "energy": 0.561,
-        "key": 8,
+
         "loudness": -7.996,
-        "mode": false,
+
         "speechiness": 0.0339,
         "acousticness": 0.00327,
         "instrumentalness": 0.896,
@@ -5366,9 +5317,9 @@
       "features": {
         "danceability": 0.586,
         "energy": 0.805,
-        "key": 6,
+
         "loudness": -8.31,
-        "mode": false,
+
         "speechiness": 0.0317,
         "acousticness": 0.004,
         "instrumentalness": 0.257,
@@ -5387,9 +5338,9 @@
       "features": {
         "danceability": 0.678,
         "energy": 0.6,
-        "key": 8,
+
         "loudness": -6.772,
-        "mode": true,
+
         "speechiness": 0.0348,
         "acousticness": 0.149,
         "instrumentalness": 0.644,
@@ -5408,9 +5359,9 @@
       "features": {
         "danceability": 0.639,
         "energy": 0.495,
-        "key": 3,
+
         "loudness": -9.24,
-        "mode": true,
+
         "speechiness": 0.0255,
         "acousticness": 0.716,
         "instrumentalness": 0.743,
@@ -5429,9 +5380,9 @@
       "features": {
         "danceability": 0.583,
         "energy": 0.829,
-        "key": 1,
+
         "loudness": -4.603,
-        "mode": true,
+
         "speechiness": 0.134,
         "acousticness": 0.00864,
         "instrumentalness": 0,
@@ -5450,9 +5401,9 @@
       "features": {
         "danceability": 0.763,
         "energy": 0.665,
-        "key": 1,
+
         "loudness": -5.823,
-        "mode": true,
+
         "speechiness": 0.133,
         "acousticness": 0.522,
         "instrumentalness": 0,
@@ -5471,9 +5422,9 @@
       "features": {
         "danceability": 0.507,
         "energy": 0.138,
-        "key": 1,
+
         "loudness": -16.447,
-        "mode": true,
+
         "speechiness": 0.0334,
         "acousticness": 0.925,
         "instrumentalness": 0.0777,
@@ -5492,9 +5443,9 @@
       "features": {
         "danceability": 0.423,
         "energy": 0.183,
-        "key": 9,
+
         "loudness": -13.517,
-        "mode": true,
+
         "speechiness": 0.0344,
         "acousticness": 0.715,
         "instrumentalness": 4.25e-5,
@@ -5513,9 +5464,9 @@
       "features": {
         "danceability": 0.375,
         "energy": 0.304,
-        "key": 1,
+
         "loudness": -14.52,
-        "mode": true,
+
         "speechiness": 0.0302,
         "acousticness": 0.943,
         "instrumentalness": 0.303,
@@ -5534,9 +5485,9 @@
       "features": {
         "danceability": 0.428,
         "energy": 0.689,
-        "key": 7,
+
         "loudness": -6.967,
-        "mode": false,
+
         "speechiness": 0.0359,
         "acousticness": 0.00315,
         "instrumentalness": 0.264,
@@ -5555,9 +5506,9 @@
       "features": {
         "danceability": 0.543,
         "energy": 0.732,
-        "key": 2,
+
         "loudness": -5.699,
-        "mode": false,
+
         "speechiness": 0.0768,
         "acousticness": 0.00332,
         "instrumentalness": 0.392,
@@ -5576,9 +5527,9 @@
       "features": {
         "danceability": 0.646,
         "energy": 0.11,
-        "key": 9,
+
         "loudness": -20.284,
-        "mode": false,
+
         "speechiness": 0.0354,
         "acousticness": 0.928,
         "instrumentalness": 0.852,
@@ -5597,9 +5548,9 @@
       "features": {
         "danceability": 0.439,
         "energy": 0.383,
-        "key": 8,
+
         "loudness": -5.347,
-        "mode": false,
+
         "speechiness": 0.0336,
         "acousticness": 0.0326,
         "instrumentalness": 0.000256,
@@ -5618,9 +5569,9 @@
       "features": {
         "danceability": 0.676,
         "energy": 0.0812,
-        "key": 2,
+
         "loudness": -22.846,
-        "mode": true,
+
         "speechiness": 0.0398,
         "acousticness": 0.979,
         "instrumentalness": 0.416,
@@ -5639,9 +5590,9 @@
       "features": {
         "danceability": 0.44,
         "energy": 0.565,
-        "key": 7,
+
         "loudness": -11.657,
-        "mode": true,
+
         "speechiness": 0.121,
         "acousticness": 0.048,
         "instrumentalness": 0,
@@ -5660,9 +5611,9 @@
       "features": {
         "danceability": 0.776,
         "energy": 0.516,
-        "key": 0,
+
         "loudness": -9.981,
-        "mode": true,
+
         "speechiness": 0.0295,
         "acousticness": 0.0876,
         "instrumentalness": 1.82e-5,
@@ -5681,9 +5632,9 @@
       "features": {
         "danceability": 0.696,
         "energy": 0.381,
-        "key": 8,
+
         "loudness": -8.467,
-        "mode": true,
+
         "speechiness": 0.0579,
         "acousticness": 0.272,
         "instrumentalness": 7.81e-5,
@@ -5702,9 +5653,9 @@
       "features": {
         "danceability": 0.37,
         "energy": 0.0772,
-        "key": 0,
+
         "loudness": -19.322,
-        "mode": true,
+
         "speechiness": 0.0414,
         "acousticness": 0.642,
         "instrumentalness": 0.69,
@@ -5723,9 +5674,9 @@
       "features": {
         "danceability": 0.893,
         "energy": 0.745,
-        "key": 11,
+
         "loudness": -3.105,
-        "mode": false,
+
         "speechiness": 0.0571,
         "acousticness": 0.0642,
         "instrumentalness": 0,
@@ -5744,9 +5695,9 @@
       "features": {
         "danceability": 0.424,
         "energy": 0.157,
-        "key": 9,
+
         "loudness": -18.141,
-        "mode": true,
+
         "speechiness": 0.0428,
         "acousticness": 0.95,
         "instrumentalness": 0.0593,
@@ -5765,9 +5716,9 @@
       "features": {
         "danceability": 0.335,
         "energy": 0.00532,
-        "key": 1,
+
         "loudness": -31.646,
-        "mode": true,
+
         "speechiness": 0.0376,
         "acousticness": 0.994,
         "instrumentalness": 0.912,
@@ -5786,9 +5737,9 @@
       "features": {
         "danceability": 0.611,
         "energy": 0.479,
-        "key": 5,
+
         "loudness": -8.074,
-        "mode": false,
+
         "speechiness": 0.117,
         "acousticness": 0.877,
         "instrumentalness": 6.5e-6,
@@ -5807,9 +5758,9 @@
       "features": {
         "danceability": 0.63,
         "energy": 0.519,
-        "key": 9,
+
         "loudness": -10.997,
-        "mode": true,
+
         "speechiness": 0.0528,
         "acousticness": 0.225,
         "instrumentalness": 4.3e-6,
@@ -5828,9 +5779,9 @@
       "features": {
         "danceability": 0.422,
         "energy": 0.91,
-        "key": 9,
+
         "loudness": -4.052,
-        "mode": false,
+
         "speechiness": 0.0515,
         "acousticness": 0.000947,
         "instrumentalness": 0.654,
@@ -5849,9 +5800,9 @@
       "features": {
         "danceability": 0.563,
         "energy": 0.836,
-        "key": 5,
+
         "loudness": -5.891,
-        "mode": false,
+
         "speechiness": 0.0357,
         "acousticness": 0.000846,
         "instrumentalness": 0.5,
@@ -5870,9 +5821,9 @@
       "features": {
         "danceability": 0.525,
         "energy": 0.749,
-        "key": 11,
+
         "loudness": -4.503,
-        "mode": false,
+
         "speechiness": 0.0863,
         "acousticness": 0.0035,
         "instrumentalness": 0.416,
@@ -5891,9 +5842,9 @@
       "features": {
         "danceability": 0.62,
         "energy": 0.584,
-        "key": 0,
+
         "loudness": -7.891,
-        "mode": true,
+
         "speechiness": 0.155,
         "acousticness": 0.531,
         "instrumentalness": 0.113,
@@ -5912,9 +5863,9 @@
       "features": {
         "danceability": 0.518,
         "energy": 0.401,
-        "key": 9,
+
         "loudness": -7.583,
-        "mode": false,
+
         "speechiness": 0.0284,
         "acousticness": 0.642,
         "instrumentalness": 0.000185,
@@ -5933,9 +5884,9 @@
       "features": {
         "danceability": 0.665,
         "energy": 0.39,
-        "key": 7,
+
         "loudness": -13.136,
-        "mode": true,
+
         "speechiness": 0.0254,
         "acousticness": 0.409,
         "instrumentalness": 0.024,
@@ -5954,9 +5905,9 @@
       "features": {
         "danceability": 0.775,
         "energy": 0.579,
-        "key": 10,
+
         "loudness": -5.435,
-        "mode": false,
+
         "speechiness": 0.0348,
         "acousticness": 0.00406,
         "instrumentalness": 0.0242,
@@ -5975,9 +5926,9 @@
       "features": {
         "danceability": 0.677,
         "energy": 0.66,
-        "key": 0,
+
         "loudness": -6.719,
-        "mode": true,
+
         "speechiness": 0.0278,
         "acousticness": 0.187,
         "instrumentalness": 0.262,
@@ -5996,9 +5947,9 @@
       "features": {
         "danceability": 0.874,
         "energy": 0.437,
-        "key": 1,
+
         "loudness": -10.234,
-        "mode": false,
+
         "speechiness": 0.0706,
         "acousticness": 0.00135,
         "instrumentalness": 0.0296,
@@ -6017,9 +5968,9 @@
       "features": {
         "danceability": 0.38,
         "energy": 0.406,
-        "key": 3,
+
         "loudness": -8.983,
-        "mode": true,
+
         "speechiness": 0.0451,
         "acousticness": 0.387,
         "instrumentalness": 0.00435,
@@ -6038,9 +5989,9 @@
       "features": {
         "danceability": 0.364,
         "energy": 0.143,
-        "key": 1,
+
         "loudness": -26.625,
-        "mode": true,
+
         "speechiness": 0.043,
         "acousticness": 0.991,
         "instrumentalness": 0.918,
@@ -6059,9 +6010,9 @@
       "features": {
         "danceability": 0.638,
         "energy": 0.711,
-        "key": 10,
+
         "loudness": -6.088,
-        "mode": false,
+
         "speechiness": 0.0668,
         "acousticness": 0.115,
         "instrumentalness": 0.5,
@@ -6080,9 +6031,9 @@
       "features": {
         "danceability": 0.329,
         "energy": 0.283,
-        "key": 4,
+
         "loudness": -17.277,
-        "mode": false,
+
         "speechiness": 0.046,
         "acousticness": 0.864,
         "instrumentalness": 0.871,
@@ -6101,9 +6052,9 @@
       "features": {
         "danceability": 0.622,
         "energy": 0.54,
-        "key": 5,
+
         "loudness": -13.99,
-        "mode": true,
+
         "speechiness": 0.0261,
         "acousticness": 0.017,
         "instrumentalness": 0.00771,
@@ -6122,9 +6073,9 @@
       "features": {
         "danceability": 0.505,
         "energy": 0.476,
-        "key": 2,
+
         "loudness": -12.897,
-        "mode": true,
+
         "speechiness": 0.0711,
         "acousticness": 0.25,
         "instrumentalness": 0.00915,
@@ -6143,9 +6094,9 @@
       "features": {
         "danceability": 0.598,
         "energy": 0.532,
-        "key": 3,
+
         "loudness": -6.833,
-        "mode": false,
+
         "speechiness": 0.0295,
         "acousticness": 0.0668,
         "instrumentalness": 3.22e-6,
@@ -6164,9 +6115,9 @@
       "features": {
         "danceability": 0.43,
         "energy": 0.436,
-        "key": 8,
+
         "loudness": -4.816,
-        "mode": true,
+
         "speechiness": 0.119,
         "acousticness": 0.17,
         "instrumentalness": 0,
@@ -6185,9 +6136,9 @@
       "features": {
         "danceability": 0.444,
         "energy": 0.557,
-        "key": 0,
+
         "loudness": -5.476,
-        "mode": true,
+
         "speechiness": 0.0602,
         "acousticness": 0.453,
         "instrumentalness": 0,
@@ -6206,9 +6157,9 @@
       "features": {
         "danceability": 0.393,
         "energy": 0.702,
-        "key": 8,
+
         "loudness": -8.473,
-        "mode": true,
+
         "speechiness": 0.034,
         "acousticness": 0.00018,
         "instrumentalness": 0.89,
@@ -6227,9 +6178,9 @@
       "features": {
         "danceability": 0.583,
         "energy": 0.748,
-        "key": 6,
+
         "loudness": -4.798,
-        "mode": true,
+
         "speechiness": 0.0292,
         "acousticness": 0.00695,
         "instrumentalness": 0.0241,
@@ -6248,9 +6199,9 @@
       "features": {
         "danceability": 0.271,
         "energy": 0.766,
-        "key": 5,
+
         "loudness": -8.03,
-        "mode": true,
+
         "speechiness": 0.0329,
         "acousticness": 0.00217,
         "instrumentalness": 0.52,
@@ -6269,9 +6220,9 @@
       "features": {
         "danceability": 0.0714,
         "energy": 0.207,
-        "key": 0,
+
         "loudness": -14.578,
-        "mode": true,
+
         "speechiness": 0.037,
         "acousticness": 0.292,
         "instrumentalness": 6.92e-5,
@@ -6290,9 +6241,9 @@
       "features": {
         "danceability": 0.504,
         "energy": 0.705,
-        "key": 6,
+
         "loudness": -8.205,
-        "mode": false,
+
         "speechiness": 0.364,
         "acousticness": 0.0752,
         "instrumentalness": 0,
@@ -6318,9 +6269,9 @@
       "features": {
         "danceability": 0.734,
         "energy": 0.808,
-        "key": 3,
+
         "loudness": -6.448,
-        "mode": false,
+
         "speechiness": 0.106,
         "acousticness": 0.189,
         "instrumentalness": 0.699,
@@ -6339,9 +6290,9 @@
       "features": {
         "danceability": 0.548,
         "energy": 0.75,
-        "key": 7,
+
         "loudness": -6.229,
-        "mode": true,
+
         "speechiness": 0.284,
         "acousticness": 0.00834,
         "instrumentalness": 2.81e-6,
@@ -6360,9 +6311,9 @@
       "features": {
         "danceability": 0.315,
         "energy": 0.11,
-        "key": 3,
+
         "loudness": -20.94,
-        "mode": true,
+
         "speechiness": 0.0343,
         "acousticness": 0.974,
         "instrumentalness": 0.897,
@@ -6381,9 +6332,9 @@
       "features": {
         "danceability": 0.457,
         "energy": 0.714,
-        "key": 9,
+
         "loudness": -7.813,
-        "mode": true,
+
         "speechiness": 0.0518,
         "acousticness": 0.157,
         "instrumentalness": 0.000325,
@@ -6402,9 +6353,9 @@
       "features": {
         "danceability": 0.566,
         "energy": 0.755,
-        "key": 11,
+
         "loudness": -5.526,
-        "mode": true,
+
         "speechiness": 0.0368,
         "acousticness": 0.0338,
         "instrumentalness": 0,
@@ -6423,9 +6374,9 @@
       "features": {
         "danceability": 0.568,
         "energy": 0.719,
-        "key": 8,
+
         "loudness": -5.406,
-        "mode": true,
+
         "speechiness": 0.0354,
         "acousticness": 0.0892,
         "instrumentalness": 1.84e-6,
@@ -6444,9 +6395,9 @@
       "features": {
         "danceability": 0.574,
         "energy": 0.833,
-        "key": 9,
+
         "loudness": -6.581,
-        "mode": true,
+
         "speechiness": 0.0878,
         "acousticness": 0.00291,
         "instrumentalness": 0.00238,
@@ -6465,9 +6416,9 @@
       "features": {
         "danceability": 0.264,
         "energy": 0.62,
-        "key": 5,
+
         "loudness": -7.907,
-        "mode": false,
+
         "speechiness": 0.0458,
         "acousticness": 0.0416,
         "instrumentalness": 0.232,
@@ -6486,9 +6437,9 @@
       "features": {
         "danceability": 0.461,
         "energy": 0.505,
-        "key": 3,
+
         "loudness": -10.476,
-        "mode": false,
+
         "speechiness": 0.0406,
         "acousticness": 0.0548,
         "instrumentalness": 0.00024,
@@ -6507,9 +6458,9 @@
       "features": {
         "danceability": 0.682,
         "energy": 0.68,
-        "key": 2,
+
         "loudness": -5.443,
-        "mode": true,
+
         "speechiness": 0.0299,
         "acousticness": 0.0255,
         "instrumentalness": 0.0208,
@@ -6528,9 +6479,9 @@
       "features": {
         "danceability": 0.866,
         "energy": 0.599,
-        "key": 2,
+
         "loudness": -7.903,
-        "mode": true,
+
         "speechiness": 0.163,
         "acousticness": 0.00917,
         "instrumentalness": 0,
@@ -6549,9 +6500,9 @@
       "features": {
         "danceability": 0.95,
         "energy": 0.665,
-        "key": 5,
+
         "loudness": -4.286,
-        "mode": false,
+
         "speechiness": 0.061,
         "acousticness": 0.0339,
         "instrumentalness": 0,
@@ -6570,9 +6521,9 @@
       "features": {
         "danceability": 0.611,
         "energy": 0.697,
-        "key": 2,
+
         "loudness": -8.618,
-        "mode": true,
+
         "speechiness": 0.133,
         "acousticness": 0.0193,
         "instrumentalness": 0,
@@ -6591,9 +6542,9 @@
       "features": {
         "danceability": 0.947,
         "energy": 0.607,
-        "key": 10,
+
         "loudness": -10.58,
-        "mode": false,
+
         "speechiness": 0.202,
         "acousticness": 0.0249,
         "instrumentalness": 4.76e-6,
@@ -6612,9 +6563,9 @@
       "features": {
         "danceability": 0.795,
         "energy": 0.523,
-        "key": 1,
+
         "loudness": -7.165,
-        "mode": true,
+
         "speechiness": 0.0423,
         "acousticness": 0.061,
         "instrumentalness": 0,
@@ -6633,9 +6584,9 @@
       "features": {
         "danceability": 0.475,
         "energy": 0.209,
-        "key": 0,
+
         "loudness": -14.442,
-        "mode": true,
+
         "speechiness": 0.0349,
         "acousticness": 0.935,
         "instrumentalness": 0.00332,
@@ -6654,9 +6605,9 @@
       "features": {
         "danceability": 0.506,
         "energy": 0.954,
-        "key": 0,
+
         "loudness": -2.349,
-        "mode": false,
+
         "speechiness": 0.103,
         "acousticness": 0.00943,
         "instrumentalness": 0.00894,
@@ -6675,9 +6626,9 @@
       "features": {
         "danceability": 0.58,
         "energy": 0.565,
-        "key": 0,
+
         "loudness": -7.065,
-        "mode": false,
+
         "speechiness": 0.0488,
         "acousticness": 0.0671,
         "instrumentalness": 0,
@@ -6696,9 +6647,9 @@
       "features": {
         "danceability": 0.732,
         "energy": 0.396,
-        "key": 4,
+
         "loudness": -9.348,
-        "mode": false,
+
         "speechiness": 0.0286,
         "acousticness": 0.0841,
         "instrumentalness": 3.58e-5,
@@ -6717,9 +6668,9 @@
       "features": {
         "danceability": 0.505,
         "energy": 0.537,
-        "key": 4,
+
         "loudness": -6.61,
-        "mode": false,
+
         "speechiness": 0.0255,
         "acousticness": 0.00269,
         "instrumentalness": 0.000895,
@@ -6738,9 +6689,9 @@
       "features": {
         "danceability": 0.279,
         "energy": 0.452,
-        "key": 5,
+
         "loudness": -10.598,
-        "mode": false,
+
         "speechiness": 0.0335,
         "acousticness": 0.418,
         "instrumentalness": 0.582,
@@ -6759,9 +6710,9 @@
       "features": {
         "danceability": 0.747,
         "energy": 0.68,
-        "key": 1,
+
         "loudness": -6.187,
-        "mode": true,
+
         "speechiness": 0.0346,
         "acousticness": 0.0107,
         "instrumentalness": 0.803,
@@ -6780,9 +6731,9 @@
       "features": {
         "danceability": 0.678,
         "energy": 0.588,
-        "key": 7,
+
         "loudness": -7.015,
-        "mode": true,
+
         "speechiness": 0.276,
         "acousticness": 0.141,
         "instrumentalness": 6.35e-6,
@@ -6801,9 +6752,9 @@
       "features": {
         "danceability": 0.671,
         "energy": 0.501,
-        "key": 4,
+
         "loudness": -13.119,
-        "mode": true,
+
         "speechiness": 0.0594,
         "acousticness": 0.342,
         "instrumentalness": 0,
@@ -6822,9 +6773,9 @@
       "features": {
         "danceability": 0.443,
         "energy": 0.727,
-        "key": 0,
+
         "loudness": -5.171,
-        "mode": false,
+
         "speechiness": 0.0984,
         "acousticness": 0.0987,
         "instrumentalness": 9.35e-6,
@@ -6843,9 +6794,9 @@
       "features": {
         "danceability": 0.711,
         "energy": 0.292,
-        "key": 4,
+
         "loudness": -15.523,
-        "mode": false,
+
         "speechiness": 0.037,
         "acousticness": 0.313,
         "instrumentalness": 0,
@@ -6864,9 +6815,9 @@
       "features": {
         "danceability": 0.591,
         "energy": 0.323,
-        "key": 2,
+
         "loudness": -14.742,
-        "mode": false,
+
         "speechiness": 0.0467,
         "acousticness": 0.198,
         "instrumentalness": 0.292,
@@ -6885,9 +6836,9 @@
       "features": {
         "danceability": 0.516,
         "energy": 0.799,
-        "key": 10,
+
         "loudness": -4.213,
-        "mode": true,
+
         "speechiness": 0.0624,
         "acousticness": 0.0213,
         "instrumentalness": 2.01e-6,
@@ -6906,9 +6857,9 @@
       "features": {
         "danceability": 0.653,
         "energy": 0.703,
-        "key": 8,
+
         "loudness": -4.376,
-        "mode": false,
+
         "speechiness": 0.19,
         "acousticness": 0.0846,
         "instrumentalness": 0.322,
@@ -6927,9 +6878,9 @@
       "features": {
         "danceability": 0.69,
         "energy": 0.547,
-        "key": 6,
+
         "loudness": -12.044,
-        "mode": false,
+
         "speechiness": 0.244,
         "acousticness": 0.185,
         "instrumentalness": 0.748,
@@ -6948,9 +6899,9 @@
       "features": {
         "danceability": 0.513,
         "energy": 0.655,
-        "key": 0,
+
         "loudness": -11.554,
-        "mode": false,
+
         "speechiness": 0.0407,
         "acousticness": 0.14,
         "instrumentalness": 0.841,
@@ -6969,9 +6920,9 @@
       "features": {
         "danceability": 0.412,
         "energy": 0.882,
-        "key": 11,
+
         "loudness": -5.54,
-        "mode": false,
+
         "speechiness": 0.0369,
         "acousticness": 5.96e-5,
         "instrumentalness": 0.00031,
@@ -6990,9 +6941,9 @@
       "features": {
         "danceability": 0.684,
         "energy": 0.771,
-        "key": 10,
+
         "loudness": -5.216,
-        "mode": false,
+
         "speechiness": 0.135,
         "acousticness": 0.0535,
         "instrumentalness": 0.0864,
@@ -7011,9 +6962,9 @@
       "features": {
         "danceability": 0.503,
         "energy": 0.584,
-        "key": 8,
+
         "loudness": -7.944,
-        "mode": false,
+
         "speechiness": 0.0463,
         "acousticness": 0.0056,
         "instrumentalness": 0.00121,
@@ -7032,9 +6983,9 @@
       "features": {
         "danceability": 0.618,
         "energy": 0.599,
-        "key": 6,
+
         "loudness": -8.471,
-        "mode": false,
+
         "speechiness": 0.126,
         "acousticness": 0.0833,
         "instrumentalness": 2.11e-6,
@@ -7053,9 +7004,9 @@
       "features": {
         "danceability": 0.441,
         "energy": 0.724,
-        "key": 8,
+
         "loudness": -8.353,
-        "mode": false,
+
         "speechiness": 0.0328,
         "acousticness": 0.0103,
         "instrumentalness": 0.81,
@@ -7074,9 +7025,9 @@
       "features": {
         "danceability": 0.501,
         "energy": 0.75,
-        "key": 8,
+
         "loudness": -6.744,
-        "mode": true,
+
         "speechiness": 0.0422,
         "acousticness": 0.000443,
         "instrumentalness": 0.0525,
@@ -7095,9 +7046,9 @@
       "features": {
         "danceability": 0.658,
         "energy": 0.573,
-        "key": 3,
+
         "loudness": -5.408,
-        "mode": false,
+
         "speechiness": 0.107,
         "acousticness": 0.023,
         "instrumentalness": 0.0613,
@@ -7116,9 +7067,9 @@
       "features": {
         "danceability": 0.608,
         "energy": 0.68,
-        "key": 5,
+
         "loudness": -8.953,
-        "mode": false,
+
         "speechiness": 0.0818,
         "acousticness": 0.106,
         "instrumentalness": 0.934,
@@ -7137,9 +7088,9 @@
       "features": {
         "danceability": 0.333,
         "energy": 0.922,
-        "key": 0,
+
         "loudness": -4.087,
-        "mode": true,
+
         "speechiness": 0.0592,
         "acousticness": 0.0596,
         "instrumentalness": 2.05e-6,
@@ -7158,9 +7109,9 @@
       "features": {
         "danceability": 0.509,
         "energy": 0.897,
-        "key": 8,
+
         "loudness": -3.418,
-        "mode": false,
+
         "speechiness": 0.0454,
         "acousticness": 0.0861,
         "instrumentalness": 0.000634,
@@ -7179,9 +7130,9 @@
       "features": {
         "danceability": 0.804,
         "energy": 0.451,
-        "key": 6,
+
         "loudness": -8.207,
-        "mode": true,
+
         "speechiness": 0.0949,
         "acousticness": 0.388,
         "instrumentalness": 2.17e-5,
@@ -7200,9 +7151,9 @@
       "features": {
         "danceability": 0.644,
         "energy": 0.664,
-        "key": 9,
+
         "loudness": -8.398,
-        "mode": true,
+
         "speechiness": 0.0333,
         "acousticness": 0.0481,
         "instrumentalness": 0.862,
@@ -7221,9 +7172,9 @@
       "features": {
         "danceability": 0.711,
         "energy": 0.807,
-        "key": 1,
+
         "loudness": -4.536,
-        "mode": false,
+
         "speechiness": 0.131,
         "acousticness": 0.0597,
         "instrumentalness": 0.001,
@@ -7242,9 +7193,9 @@
       "features": {
         "danceability": 0.713,
         "energy": 0.631,
-        "key": 0,
+
         "loudness": -7.129,
-        "mode": true,
+
         "speechiness": 0.0252,
         "acousticness": 0.138,
         "instrumentalness": 1.62e-6,
@@ -7263,9 +7214,9 @@
       "features": {
         "danceability": 0.747,
         "energy": 0.706,
-        "key": 9,
+
         "loudness": -7.553,
-        "mode": false,
+
         "speechiness": 0.0559,
         "acousticness": 0.337,
         "instrumentalness": 0.11,
@@ -7284,9 +7235,9 @@
       "features": {
         "danceability": 0.467,
         "energy": 0.723,
-        "key": 0,
+
         "loudness": -7.101,
-        "mode": false,
+
         "speechiness": 0.0536,
         "acousticness": 0.117,
         "instrumentalness": 3.49e-6,
@@ -7305,9 +7256,9 @@
       "features": {
         "danceability": 0.4,
         "energy": 0.915,
-        "key": 0,
+
         "loudness": -4.89,
-        "mode": true,
+
         "speechiness": 0.28,
         "acousticness": 0.0846,
         "instrumentalness": 0,
@@ -7326,9 +7277,9 @@
       "features": {
         "danceability": 0.875,
         "energy": 0.475,
-        "key": 9,
+
         "loudness": -12.673,
-        "mode": false,
+
         "speechiness": 0.0986,
         "acousticness": 0.44,
         "instrumentalness": 0.72,
@@ -7347,9 +7298,9 @@
       "features": {
         "danceability": 0.524,
         "energy": 0.803,
-        "key": 9,
+
         "loudness": -5.56,
-        "mode": false,
+
         "speechiness": 0.0366,
         "acousticness": 0.145,
         "instrumentalness": 0.000191,
@@ -7368,9 +7319,9 @@
       "features": {
         "danceability": 0.617,
         "energy": 0.0457,
-        "key": 0,
+
         "loudness": -26.401,
-        "mode": true,
+
         "speechiness": 0.0344,
         "acousticness": 0.937,
         "instrumentalness": 0.641,
@@ -7389,9 +7340,9 @@
       "features": {
         "danceability": 0.694,
         "energy": 0.394,
-        "key": 0,
+
         "loudness": -15.881,
-        "mode": true,
+
         "speechiness": 0.0428,
         "acousticness": 0.0781,
         "instrumentalness": 0.000677,
@@ -7410,9 +7361,9 @@
       "features": {
         "danceability": 0.501,
         "energy": 0.338,
-        "key": 11,
+
         "loudness": -19.12,
-        "mode": true,
+
         "speechiness": 0.0397,
         "acousticness": 0.187,
         "instrumentalness": 0.862,
@@ -7431,9 +7382,9 @@
       "features": {
         "danceability": 0.307,
         "energy": 0.0742,
-        "key": 9,
+
         "loudness": -27.159,
-        "mode": false,
+
         "speechiness": 0.0359,
         "acousticness": 0.723,
         "instrumentalness": 0.308,
@@ -7452,9 +7403,9 @@
       "features": {
         "danceability": 0.472,
         "energy": 0.366,
-        "key": 11,
+
         "loudness": -12.595,
-        "mode": false,
+
         "speechiness": 0.0286,
         "acousticness": 0.15,
         "instrumentalness": 0.308,
@@ -7473,9 +7424,9 @@
       "features": {
         "danceability": 0.322,
         "energy": 0.265,
-        "key": 2,
+
         "loudness": -13.398,
-        "mode": true,
+
         "speechiness": 0.0302,
         "acousticness": 0.0726,
         "instrumentalness": 0.34,
@@ -7494,9 +7445,9 @@
       "features": {
         "danceability": 0.359,
         "energy": 0.579,
-        "key": 10,
+
         "loudness": -10.765,
-        "mode": true,
+
         "speechiness": 0.0406,
         "acousticness": 0.0591,
         "instrumentalness": 0.746,
@@ -7515,9 +7466,9 @@
       "features": {
         "danceability": 0.44,
         "energy": 0.792,
-        "key": 0,
+
         "loudness": -7.088,
-        "mode": false,
+
         "speechiness": 0.048,
         "acousticness": 0.014,
         "instrumentalness": 0.00138,
@@ -7536,9 +7487,9 @@
       "features": {
         "danceability": 0.458,
         "energy": 0.752,
-        "key": 0,
+
         "loudness": -6.302,
-        "mode": false,
+
         "speechiness": 0.0564,
         "acousticness": 0.0487,
         "instrumentalness": 1.87e-6,
@@ -7557,9 +7508,9 @@
       "features": {
         "danceability": 0.838,
         "energy": 0.625,
-        "key": 11,
+
         "loudness": -4.407,
-        "mode": true,
+
         "speechiness": 0.122,
         "acousticness": 0.185,
         "instrumentalness": 0,
@@ -7578,9 +7529,9 @@
       "features": {
         "danceability": 0.769,
         "energy": 0.675,
-        "key": 6,
+
         "loudness": -6.355,
-        "mode": true,
+
         "speechiness": 0.0261,
         "acousticness": 0.246,
         "instrumentalness": 0,
@@ -7599,9 +7550,9 @@
       "features": {
         "danceability": 0.58,
         "energy": 0.568,
-        "key": 3,
+
         "loudness": -9.643,
-        "mode": false,
+
         "speechiness": 0.0417,
         "acousticness": 0.68,
         "instrumentalness": 0.746,
@@ -7620,9 +7571,9 @@
       "features": {
         "danceability": 0.45,
         "energy": 0.756,
-        "key": 1,
+
         "loudness": -6.307,
-        "mode": false,
+
         "speechiness": 0.0389,
         "acousticness": 0.108,
         "instrumentalness": 0.0205,
@@ -7641,9 +7592,9 @@
       "features": {
         "danceability": 0.886,
         "energy": 0.628,
-        "key": 8,
+
         "loudness": -5.949,
-        "mode": true,
+
         "speechiness": 0.131,
         "acousticness": 0.00215,
         "instrumentalness": 1.15e-5,
@@ -7662,9 +7613,9 @@
       "features": {
         "danceability": 0.478,
         "energy": 0.893,
-        "key": 8,
+
         "loudness": -4.259,
-        "mode": false,
+
         "speechiness": 0.182,
         "acousticness": 0.00383,
         "instrumentalness": 0.467,
@@ -7683,9 +7634,9 @@
       "features": {
         "danceability": 0.599,
         "energy": 0.697,
-        "key": 0,
+
         "loudness": -10.073,
-        "mode": true,
+
         "speechiness": 0.0351,
         "acousticness": 0.0011,
         "instrumentalness": 0.813,
@@ -7704,9 +7655,9 @@
       "features": {
         "danceability": 0.725,
         "energy": 0.803,
-        "key": 2,
+
         "loudness": -4.083,
-        "mode": true,
+
         "speechiness": 0.0337,
         "acousticness": 0.013,
         "instrumentalness": 3.66e-5,
@@ -7725,9 +7676,9 @@
       "features": {
         "danceability": 0.571,
         "energy": 0.8,
-        "key": 7,
+
         "loudness": -4.131,
-        "mode": true,
+
         "speechiness": 0.0292,
         "acousticness": 0.0101,
         "instrumentalness": 7.29e-5,
@@ -7746,9 +7697,9 @@
       "features": {
         "danceability": 0.618,
         "energy": 0.938,
-        "key": 9,
+
         "loudness": -3.442,
-        "mode": true,
+
         "speechiness": 0.0456,
         "acousticness": 0.0179,
         "instrumentalness": 0,
@@ -7767,9 +7718,9 @@
       "features": {
         "danceability": 0.645,
         "energy": 0.707,
-        "key": 1,
+
         "loudness": -6.615,
-        "mode": true,
+
         "speechiness": 0.0381,
         "acousticness": 0.00138,
         "instrumentalness": 0.00121,
@@ -7788,9 +7739,9 @@
       "features": {
         "danceability": 0.475,
         "energy": 0.821,
-        "key": 8,
+
         "loudness": -5.669,
-        "mode": true,
+
         "speechiness": 0.0761,
         "acousticness": 0.004,
         "instrumentalness": 0.000768,
@@ -7809,9 +7760,9 @@
       "features": {
         "danceability": 0.82,
         "energy": 0.809,
-        "key": 4,
+
         "loudness": -6.759,
-        "mode": false,
+
         "speechiness": 0.251,
         "acousticness": 0.443,
         "instrumentalness": 0.00175,
@@ -7830,9 +7781,9 @@
       "features": {
         "danceability": 0.38,
         "energy": 0.0993,
-        "key": 2,
+
         "loudness": -20.567,
-        "mode": true,
+
         "speechiness": 0.0509,
         "acousticness": 0.914,
         "instrumentalness": 2.32e-5,
@@ -7851,9 +7802,9 @@
       "features": {
         "danceability": 0.494,
         "energy": 0.372,
-        "key": 7,
+
         "loudness": -11.89,
-        "mode": true,
+
         "speechiness": 0.0331,
         "acousticness": 0.964,
         "instrumentalness": 0.0296,
@@ -7872,9 +7823,9 @@
       "features": {
         "danceability": 0.422,
         "energy": 0.745,
-        "key": 0,
+
         "loudness": -2.805,
-        "mode": true,
+
         "speechiness": 0.186,
         "acousticness": 0.211,
         "instrumentalness": 0,
@@ -7893,9 +7844,9 @@
       "features": {
         "danceability": 0.45,
         "energy": 0.846,
-        "key": 9,
+
         "loudness": -4.712,
-        "mode": false,
+
         "speechiness": 0.0472,
         "acousticness": 0.00523,
         "instrumentalness": 0,
@@ -7914,9 +7865,9 @@
       "features": {
         "danceability": 0.686,
         "energy": 0.127,
-        "key": 7,
+
         "loudness": -14.361,
-        "mode": true,
+
         "speechiness": 0.0342,
         "acousticness": 0.754,
         "instrumentalness": 1.41e-5,
@@ -7935,9 +7886,9 @@
       "features": {
         "danceability": 0.924,
         "energy": 0.596,
-        "key": 1,
+
         "loudness": -3.287,
-        "mode": true,
+
         "speechiness": 0.113,
         "acousticness": 0.0734,
         "instrumentalness": 0,
@@ -7956,9 +7907,9 @@
       "features": {
         "danceability": 0.778,
         "energy": 0.578,
-        "key": 9,
+
         "loudness": -7.22,
-        "mode": false,
+
         "speechiness": 0.274,
         "acousticness": 0.432,
         "instrumentalness": 0,
@@ -7977,9 +7928,9 @@
       "features": {
         "danceability": 0.528,
         "energy": 0.685,
-        "key": 6,
+
         "loudness": -7.369,
-        "mode": false,
+
         "speechiness": 0.0471,
         "acousticness": 0.133,
         "instrumentalness": 0.0136,
@@ -7998,9 +7949,9 @@
       "features": {
         "danceability": 0.457,
         "energy": 0.839,
-        "key": 8,
+
         "loudness": -7.386,
-        "mode": false,
+
         "speechiness": 0.151,
         "acousticness": 0.00303,
         "instrumentalness": 6.49e-5,
@@ -8019,9 +7970,9 @@
       "features": {
         "danceability": 0.675,
         "energy": 0.827,
-        "key": 8,
+
         "loudness": -4.292,
-        "mode": false,
+
         "speechiness": 0.0363,
         "acousticness": 0.00138,
         "instrumentalness": 0.865,
@@ -8040,9 +7991,9 @@
       "features": {
         "danceability": 0.552,
         "energy": 0.878,
-        "key": 1,
+
         "loudness": -5.767,
-        "mode": true,
+
         "speechiness": 0.0353,
         "acousticness": 0.0585,
         "instrumentalness": 0.892,
@@ -8061,9 +8012,9 @@
       "features": {
         "danceability": 0.622,
         "energy": 0.422,
-        "key": 1,
+
         "loudness": -9.189,
-        "mode": false,
+
         "speechiness": 0.0291,
         "acousticness": 0.56,
         "instrumentalness": 3.03e-5,
@@ -8082,9 +8033,9 @@
       "features": {
         "danceability": 0.491,
         "energy": 0.723,
-        "key": 8,
+
         "loudness": -7.449,
-        "mode": true,
+
         "speechiness": 0.0474,
         "acousticness": 0.0236,
         "instrumentalness": 0.547,
@@ -8103,9 +8054,9 @@
       "features": {
         "danceability": 0.411,
         "energy": 0.932,
-        "key": 11,
+
         "loudness": -4.718,
-        "mode": false,
+
         "speechiness": 0.0692,
         "acousticness": 0.00242,
         "instrumentalness": 0.0505,
@@ -8124,9 +8075,9 @@
       "features": {
         "danceability": 0.68,
         "energy": 0.533,
-        "key": 10,
+
         "loudness": -10.572,
-        "mode": false,
+
         "speechiness": 0.0391,
         "acousticness": 0.161,
         "instrumentalness": 0.753,
@@ -8145,9 +8096,9 @@
       "features": {
         "danceability": 0.56,
         "energy": 0.846,
-        "key": 5,
+
         "loudness": -4.494,
-        "mode": false,
+
         "speechiness": 0.0466,
         "acousticness": 0.0703,
         "instrumentalness": 0.898,
@@ -8166,9 +8117,9 @@
       "features": {
         "danceability": 0.456,
         "energy": 0.233,
-        "key": 8,
+
         "loudness": -12.634,
-        "mode": true,
+
         "speechiness": 0.0255,
         "acousticness": 0.433,
         "instrumentalness": 6.42e-5,
@@ -8187,9 +8138,9 @@
       "features": {
         "danceability": 0.58,
         "energy": 0.65,
-        "key": 0,
+
         "loudness": -5.361,
-        "mode": false,
+
         "speechiness": 0.0329,
         "acousticness": 0.038,
         "instrumentalness": 0.000318,
@@ -8208,9 +8159,9 @@
       "features": {
         "danceability": 0.579,
         "energy": 0.545,
-        "key": 8,
+
         "loudness": -8.354,
-        "mode": true,
+
         "speechiness": 0.0418,
         "acousticness": 0.218,
         "instrumentalness": 0.0913,
@@ -8229,9 +8180,9 @@
       "features": {
         "danceability": 0.518,
         "energy": 0.261,
-        "key": 2,
+
         "loudness": -13.868,
-        "mode": true,
+
         "speechiness": 0.0272,
         "acousticness": 0.755,
         "instrumentalness": 0.00106,
@@ -8250,9 +8201,9 @@
       "features": {
         "danceability": 0.796,
         "energy": 0.766,
-        "key": 7,
+
         "loudness": -5.974,
-        "mode": true,
+
         "speechiness": 0.238,
         "acousticness": 0.0742,
         "instrumentalness": 0,
@@ -8271,9 +8222,9 @@
       "features": {
         "danceability": 0.657,
         "energy": 0.712,
-        "key": 4,
+
         "loudness": -3.467,
-        "mode": true,
+
         "speechiness": 0.0319,
         "acousticness": 0.356,
         "instrumentalness": 0.000699,
@@ -8292,9 +8243,9 @@
       "features": {
         "danceability": 0.558,
         "energy": 0.74,
-        "key": 6,
+
         "loudness": -6.22,
-        "mode": true,
+
         "speechiness": 0.0448,
         "acousticness": 0.00192,
         "instrumentalness": 8.97e-6,
@@ -8313,9 +8264,9 @@
       "features": {
         "danceability": 0.599,
         "energy": 0.744,
-        "key": 7,
+
         "loudness": -8.72,
-        "mode": true,
+
         "speechiness": 0.0316,
         "acousticness": 0.131,
         "instrumentalness": 0.00275,
@@ -8334,9 +8285,9 @@
       "features": {
         "danceability": 0.84,
         "energy": 0.798,
-        "key": 8,
+
         "loudness": -5.079,
-        "mode": true,
+
         "speechiness": 0.0699,
         "acousticness": 0.045,
         "instrumentalness": 4.32e-5,
@@ -8355,9 +8306,9 @@
       "features": {
         "danceability": 0.671,
         "energy": 0.373,
-        "key": 9,
+
         "loudness": -18.064,
-        "mode": true,
+
         "speechiness": 0.0323,
         "acousticness": 0.257,
         "instrumentalness": 7.95e-5,
@@ -8376,9 +8327,9 @@
       "features": {
         "danceability": 0.758,
         "energy": 0.448,
-        "key": 7,
+
         "loudness": -9.441,
-        "mode": true,
+
         "speechiness": 0.103,
         "acousticness": 0.0309,
         "instrumentalness": 8.67e-5,
@@ -8397,9 +8348,9 @@
       "features": {
         "danceability": 0.514,
         "energy": 0.771,
-        "key": 0,
+
         "loudness": -5.756,
-        "mode": true,
+
         "speechiness": 0.0364,
         "acousticness": 0.039,
         "instrumentalness": 0,
@@ -8425,9 +8376,9 @@
       "features": {
         "danceability": 0.444,
         "energy": 0.989,
-        "key": 1,
+
         "loudness": -3.746,
-        "mode": true,
+
         "speechiness": 0.112,
         "acousticness": 0.117,
         "instrumentalness": 0.0445,
@@ -8446,9 +8397,9 @@
       "features": {
         "danceability": 0.705,
         "energy": 0.811,
-        "key": 9,
+
         "loudness": -5.201,
-        "mode": true,
+
         "speechiness": 0.0285,
         "acousticness": 0.425,
         "instrumentalness": 6.15e-5,
@@ -8467,9 +8418,9 @@
       "features": {
         "danceability": 0.604,
         "energy": 0.825,
-        "key": 0,
+
         "loudness": -5.373,
-        "mode": true,
+
         "speechiness": 0.0429,
         "acousticness": 0.0564,
         "instrumentalness": 5.8e-5,
@@ -8488,9 +8439,9 @@
       "features": {
         "danceability": 0.508,
         "energy": 0.466,
-        "key": 11,
+
         "loudness": -11.504,
-        "mode": true,
+
         "speechiness": 0.035,
         "acousticness": 0.923,
         "instrumentalness": 0.169,
@@ -8509,9 +8460,9 @@
       "features": {
         "danceability": 0.509,
         "energy": 0.803,
-        "key": 5,
+
         "loudness": -4.903,
-        "mode": true,
+
         "speechiness": 0.0558,
         "acousticness": 0.0917,
         "instrumentalness": 0.0135,
@@ -8530,9 +8481,9 @@
       "features": {
         "danceability": 0.544,
         "energy": 0.69,
-        "key": 6,
+
         "loudness": -5.723,
-        "mode": false,
+
         "speechiness": 0.0425,
         "acousticness": 0.012,
         "instrumentalness": 0.0095,
@@ -8551,9 +8502,9 @@
       "features": {
         "danceability": 0.435,
         "energy": 0.423,
-        "key": 11,
+
         "loudness": -8.795,
-        "mode": true,
+
         "speechiness": 0.024,
         "acousticness": 0.0916,
         "instrumentalness": 0.000659,
@@ -8572,9 +8523,9 @@
       "features": {
         "danceability": 0.575,
         "energy": 0.67,
-        "key": 7,
+
         "loudness": -10.39,
-        "mode": true,
+
         "speechiness": 0.0318,
         "acousticness": 0.343,
         "instrumentalness": 4.95e-6,
@@ -8593,9 +8544,9 @@
       "features": {
         "danceability": 0.612,
         "energy": 0.276,
-        "key": 7,
+
         "loudness": -11.932,
-        "mode": true,
+
         "speechiness": 0.0358,
         "acousticness": 0.898,
         "instrumentalness": 0.864,
@@ -8614,9 +8565,9 @@
       "features": {
         "danceability": 0.523,
         "energy": 0.438,
-        "key": 0,
+
         "loudness": -11.49,
-        "mode": false,
+
         "speechiness": 0.0356,
         "acousticness": 0.867,
         "instrumentalness": 0.0723,
@@ -8635,9 +8586,9 @@
       "features": {
         "danceability": 0.865,
         "energy": 0.751,
-        "key": 8,
+
         "loudness": -8.363,
-        "mode": false,
+
         "speechiness": 0.304,
         "acousticness": 0.0184,
         "instrumentalness": 0,
@@ -8656,9 +8607,9 @@
       "features": {
         "danceability": 0.601,
         "energy": 0.973,
-        "key": 5,
+
         "loudness": -3.257,
-        "mode": false,
+
         "speechiness": 0.0332,
         "acousticness": 0.00826,
         "instrumentalness": 0.123,
@@ -8677,9 +8628,9 @@
       "features": {
         "danceability": 0.884,
         "energy": 0.657,
-        "key": 6,
+
         "loudness": -4.569,
-        "mode": false,
+
         "speechiness": 0.0977,
         "acousticness": 0.00589,
         "instrumentalness": 0,
@@ -8698,9 +8649,9 @@
       "features": {
         "danceability": 0.683,
         "energy": 0.789,
-        "key": 8,
+
         "loudness": -6.132,
-        "mode": false,
+
         "speechiness": 0.0353,
         "acousticness": 0.0283,
         "instrumentalness": 0.0492,
@@ -8719,9 +8670,9 @@
       "features": {
         "danceability": 0.574,
         "energy": 0.856,
-        "key": 2,
+
         "loudness": -4.132,
-        "mode": true,
+
         "speechiness": 0.0503,
         "acousticness": 0.000816,
         "instrumentalness": 0.00036,
@@ -8740,9 +8691,9 @@
       "features": {
         "danceability": 0.397,
         "energy": 0.396,
-        "key": 3,
+
         "loudness": -9.91,
-        "mode": true,
+
         "speechiness": 0.05,
         "acousticness": 0.254,
         "instrumentalness": 0,
@@ -8761,9 +8712,9 @@
       "features": {
         "danceability": 0.438,
         "energy": 0.94,
-        "key": 2,
+
         "loudness": -3.249,
-        "mode": true,
+
         "speechiness": 0.0452,
         "acousticness": 8.74e-5,
         "instrumentalness": 0.0777,
@@ -8782,9 +8733,9 @@
       "features": {
         "danceability": 0.763,
         "energy": 0.807,
-        "key": 1,
+
         "loudness": -3.714,
-        "mode": true,
+
         "speechiness": 0.035,
         "acousticness": 0.0714,
         "instrumentalness": 0.28,
@@ -8803,9 +8754,9 @@
       "features": {
         "danceability": 0.451,
         "energy": 0.931,
-        "key": 9,
+
         "loudness": -3.871,
-        "mode": true,
+
         "speechiness": 0.0719,
         "acousticness": 0.00076,
         "instrumentalness": 0.0049,
@@ -8824,9 +8775,9 @@
       "features": {
         "danceability": 0.779,
         "energy": 0.572,
-        "key": 6,
+
         "loudness": -9.985,
-        "mode": false,
+
         "speechiness": 0.378,
         "acousticness": 0.157,
         "instrumentalness": 0,
@@ -8845,9 +8796,9 @@
       "features": {
         "danceability": 0.696,
         "energy": 0.521,
-        "key": 10,
+
         "loudness": -8.465,
-        "mode": false,
+
         "speechiness": 0.332,
         "acousticness": 0.302,
         "instrumentalness": 0,
@@ -8866,9 +8817,9 @@
       "features": {
         "danceability": 0.488,
         "energy": 0.754,
-        "key": 5,
+
         "loudness": -7.95,
-        "mode": false,
+
         "speechiness": 0.0381,
         "acousticness": 0.00154,
         "instrumentalness": 2.42e-5,
@@ -8887,9 +8838,9 @@
       "features": {
         "danceability": 0.834,
         "energy": 0.496,
-        "key": 0,
+
         "loudness": -13.653,
-        "mode": true,
+
         "speechiness": 0.0597,
         "acousticness": 0.501,
         "instrumentalness": 3.07e-6,
@@ -8908,9 +8859,9 @@
       "features": {
         "danceability": 0.434,
         "energy": 0.885,
-        "key": 4,
+
         "loudness": -7.367,
-        "mode": true,
+
         "speechiness": 0.0396,
         "acousticness": 0.204,
         "instrumentalness": 0,
@@ -8929,9 +8880,9 @@
       "features": {
         "danceability": 0.729,
         "energy": 0.443,
-        "key": 0,
+
         "loudness": -9.195,
-        "mode": true,
+
         "speechiness": 0.0278,
         "acousticness": 0.514,
         "instrumentalness": 1.01e-6,
@@ -8950,9 +8901,9 @@
       "features": {
         "danceability": 0.397,
         "energy": 0.734,
-        "key": 8,
+
         "loudness": -6.677,
-        "mode": false,
+
         "speechiness": 0.062,
         "acousticness": 0.129,
         "instrumentalness": 0.234,
@@ -8971,9 +8922,9 @@
       "features": {
         "danceability": 0.563,
         "energy": 0.869,
-        "key": 2,
+
         "loudness": -5.361,
-        "mode": true,
+
         "speechiness": 0.206,
         "acousticness": 0.0691,
         "instrumentalness": 0,
@@ -8992,9 +8943,9 @@
       "features": {
         "danceability": 0.638,
         "energy": 0.656,
-        "key": 5,
+
         "loudness": -9.049,
-        "mode": false,
+
         "speechiness": 0.0353,
         "acousticness": 0.589,
         "instrumentalness": 0.886,
@@ -9013,9 +8964,9 @@
       "features": {
         "danceability": 0.525,
         "energy": 0.475,
-        "key": 2,
+
         "loudness": -11.868,
-        "mode": false,
+
         "speechiness": 0.0269,
         "acousticness": 0.285,
         "instrumentalness": 0.52,
@@ -9034,9 +8985,9 @@
       "features": {
         "danceability": 0.155,
         "energy": 0.043,
-        "key": 10,
+
         "loudness": -24.235,
-        "mode": true,
+
         "speechiness": 0.0379,
         "acousticness": 0.984,
         "instrumentalness": 0.961,
@@ -9055,9 +9006,9 @@
       "features": {
         "danceability": 0.528,
         "energy": 0.757,
-        "key": 6,
+
         "loudness": -5.423,
-        "mode": true,
+
         "speechiness": 0.212,
         "acousticness": 0.00957,
         "instrumentalness": 5.53e-5,
@@ -9076,9 +9027,9 @@
       "features": {
         "danceability": 0.52,
         "energy": 0.761,
-        "key": 4,
+
         "loudness": -3.093,
-        "mode": true,
+
         "speechiness": 0.0853,
         "acousticness": 0.256,
         "instrumentalness": 4.96e-6,
@@ -9097,9 +9048,9 @@
       "features": {
         "danceability": 0.648,
         "energy": 0.306,
-        "key": 2,
+
         "loudness": -9.101,
-        "mode": false,
+
         "speechiness": 0.105,
         "acousticness": 0.607,
         "instrumentalness": 1.72e-6,
@@ -9118,9 +9069,9 @@
       "features": {
         "danceability": 0.564,
         "energy": 0.552,
-        "key": 0,
+
         "loudness": -5.438,
-        "mode": true,
+
         "speechiness": 0.055,
         "acousticness": 0.439,
         "instrumentalness": 0,
@@ -9139,9 +9090,9 @@
       "features": {
         "danceability": 0.598,
         "energy": 0.532,
-        "key": 3,
+
         "loudness": -6.833,
-        "mode": false,
+
         "speechiness": 0.0295,
         "acousticness": 0.0668,
         "instrumentalness": 3.22e-6,
@@ -9160,9 +9111,9 @@
       "features": {
         "danceability": 0.547,
         "energy": 0.807,
-        "key": 6,
+
         "loudness": -4.083,
-        "mode": false,
+
         "speechiness": 0.36,
         "acousticness": 0.388,
         "instrumentalness": 9.11e-5,
@@ -9181,9 +9132,9 @@
       "features": {
         "danceability": 0.438,
         "energy": 0.805,
-        "key": 8,
+
         "loudness": -6.237,
-        "mode": true,
+
         "speechiness": 0.0624,
         "acousticness": 0.00255,
         "instrumentalness": 5.69e-5,
@@ -9202,9 +9153,9 @@
       "features": {
         "danceability": 0.113,
         "energy": 0.951,
-        "key": 0,
+
         "loudness": -4.743,
-        "mode": false,
+
         "speechiness": 0.129,
         "acousticness": 0.00176,
         "instrumentalness": 0.00718,
@@ -9223,9 +9174,9 @@
       "features": {
         "danceability": 0.565,
         "energy": 0.806,
-        "key": 8,
+
         "loudness": -6.521,
-        "mode": true,
+
         "speechiness": 0.109,
         "acousticness": 0.442,
         "instrumentalness": 4.63e-6,
@@ -9244,9 +9195,9 @@
       "features": {
         "danceability": 0.751,
         "energy": 0.708,
-        "key": 0,
+
         "loudness": -5.645,
-        "mode": true,
+
         "speechiness": 0.0545,
         "acousticness": 0.0481,
         "instrumentalness": 1.83e-5,
@@ -9265,9 +9216,9 @@
       "features": {
         "danceability": 0.714,
         "energy": 0.946,
-        "key": 0,
+
         "loudness": -4.779,
-        "mode": true,
+
         "speechiness": 0.0557,
         "acousticness": 0.069,
         "instrumentalness": 0.000463,
@@ -9286,9 +9237,9 @@
       "features": {
         "danceability": 0.843,
         "energy": 0.805,
-        "key": 4,
+
         "loudness": -5.946,
-        "mode": false,
+
         "speechiness": 0.269,
         "acousticness": 0.142,
         "instrumentalness": 0,
@@ -9307,9 +9258,9 @@
       "features": {
         "danceability": 0.554,
         "energy": 0.494,
-        "key": 11,
+
         "loudness": -12.344,
-        "mode": false,
+
         "speechiness": 0.0332,
         "acousticness": 0.00269,
         "instrumentalness": 0.836,
@@ -9328,9 +9279,9 @@
       "features": {
         "danceability": 0.428,
         "energy": 0.566,
-        "key": 4,
+
         "loudness": -8.352,
-        "mode": true,
+
         "speechiness": 0.0279,
         "acousticness": 0.933,
         "instrumentalness": 0.581,
@@ -9349,9 +9300,9 @@
       "features": {
         "danceability": 0.425,
         "energy": 0.784,
-        "key": 1,
+
         "loudness": -4.492,
-        "mode": true,
+
         "speechiness": 0.0353,
         "acousticness": 0.0597,
         "instrumentalness": 0.431,
@@ -9370,9 +9321,9 @@
       "features": {
         "danceability": 0.266,
         "energy": 0.294,
-        "key": 7,
+
         "loudness": -11.938,
-        "mode": false,
+
         "speechiness": 0.0291,
         "acousticness": 0.771,
         "instrumentalness": 0.697,
@@ -9391,9 +9342,9 @@
       "features": {
         "danceability": 0.382,
         "energy": 0.36,
-        "key": 0,
+
         "loudness": -12.442,
-        "mode": true,
+
         "speechiness": 0.0365,
         "acousticness": 0.52,
         "instrumentalness": 0.171,
@@ -9412,9 +9363,9 @@
       "features": {
         "danceability": 0.481,
         "energy": 0.262,
-        "key": 7,
+
         "loudness": -15.73,
-        "mode": true,
+
         "speechiness": 0.0414,
         "acousticness": 0.735,
         "instrumentalness": 0.0114,
@@ -9433,9 +9384,9 @@
       "features": {
         "danceability": 0.287,
         "energy": 0.485,
-        "key": 7,
+
         "loudness": -13.155,
-        "mode": false,
+
         "speechiness": 0.0498,
         "acousticness": 0.577,
         "instrumentalness": 0.898,
@@ -9454,9 +9405,9 @@
       "features": {
         "danceability": 0.359,
         "energy": 0.956,
-        "key": 1,
+
         "loudness": -2.942,
-        "mode": true,
+
         "speechiness": 0.062,
         "acousticness": 0.0118,
         "instrumentalness": 0.000822,
@@ -9475,9 +9426,9 @@
       "features": {
         "danceability": 0.69,
         "energy": 0.547,
-        "key": 6,
+
         "loudness": -12.044,
-        "mode": false,
+
         "speechiness": 0.244,
         "acousticness": 0.185,
         "instrumentalness": 0.748,
@@ -9496,9 +9447,9 @@
       "features": {
         "danceability": 0.486,
         "energy": 0.637,
-        "key": 9,
+
         "loudness": -4.338,
-        "mode": false,
+
         "speechiness": 0.0274,
         "acousticness": 0.075,
         "instrumentalness": 0,
@@ -9517,9 +9468,9 @@
       "features": {
         "danceability": 0.546,
         "energy": 0.852,
-        "key": 1,
+
         "loudness": -2.445,
-        "mode": true,
+
         "speechiness": 0.102,
         "acousticness": 0.00592,
         "instrumentalness": 0,
@@ -9538,9 +9489,9 @@
       "features": {
         "danceability": 0.49,
         "energy": 0.914,
-        "key": 10,
+
         "loudness": -3.202,
-        "mode": true,
+
         "speechiness": 0.167,
         "acousticness": 0.0227,
         "instrumentalness": 0,
@@ -9559,9 +9510,9 @@
       "features": {
         "danceability": 0.588,
         "energy": 0.33,
-        "key": 0,
+
         "loudness": -8.263,
-        "mode": true,
+
         "speechiness": 0.0338,
         "acousticness": 0.265,
         "instrumentalness": 0.000769,
@@ -9580,9 +9531,9 @@
       "features": {
         "danceability": 0.56,
         "energy": 0.437,
-        "key": 4,
+
         "loudness": -9.978,
-        "mode": false,
+
         "speechiness": 0.034,
         "acousticness": 0.43,
         "instrumentalness": 0.00222,
@@ -9601,9 +9552,9 @@
       "features": {
         "danceability": 0.504,
         "energy": 0.635,
-        "key": 4,
+
         "loudness": -7.979,
-        "mode": true,
+
         "speechiness": 0.0273,
         "acousticness": 0.312,
         "instrumentalness": 6.69e-5,
@@ -9622,9 +9573,9 @@
       "features": {
         "danceability": 0.576,
         "energy": 0.411,
-        "key": 9,
+
         "loudness": -8.158,
-        "mode": true,
+
         "speechiness": 0.0266,
         "acousticness": 0.474,
         "instrumentalness": 3.3e-6,
@@ -9643,9 +9594,9 @@
       "features": {
         "danceability": 0.416,
         "energy": 0.824,
-        "key": 2,
+
         "loudness": -5.182,
-        "mode": true,
+
         "speechiness": 0.0327,
         "acousticness": 0.438,
         "instrumentalness": 0.0101,
@@ -9664,9 +9615,9 @@
       "features": {
         "danceability": 0.481,
         "energy": 0.67,
-        "key": 9,
+
         "loudness": -6.713,
-        "mode": true,
+
         "speechiness": 0.0297,
         "acousticness": 0.359,
         "instrumentalness": 9.5e-6,
@@ -9685,9 +9636,9 @@
       "features": {
         "danceability": 0.662,
         "energy": 0.524,
-        "key": 4,
+
         "loudness": -9.013,
-        "mode": true,
+
         "speechiness": 0.0259,
         "acousticness": 0.607,
         "instrumentalness": 0.00272,
@@ -9706,9 +9657,9 @@
       "features": {
         "danceability": 0.701,
         "energy": 0.874,
-        "key": 4,
+
         "loudness": -17.808,
-        "mode": true,
+
         "speechiness": 0.063,
         "acousticness": 0.884,
         "instrumentalness": 0.942,
@@ -9727,9 +9678,9 @@
       "features": {
         "danceability": 0.513,
         "energy": 0.655,
-        "key": 0,
+
         "loudness": -11.554,
-        "mode": false,
+
         "speechiness": 0.0407,
         "acousticness": 0.14,
         "instrumentalness": 0.841,
@@ -9748,9 +9699,9 @@
       "features": {
         "danceability": 0.315,
         "energy": 0.11,
-        "key": 3,
+
         "loudness": -20.94,
-        "mode": true,
+
         "speechiness": 0.0343,
         "acousticness": 0.974,
         "instrumentalness": 0.897,
@@ -9769,9 +9720,9 @@
       "features": {
         "danceability": 0.428,
         "energy": 0.566,
-        "key": 4,
+
         "loudness": -8.352,
-        "mode": true,
+
         "speechiness": 0.0279,
         "acousticness": 0.933,
         "instrumentalness": 0.581,
@@ -9790,9 +9741,9 @@
       "features": {
         "danceability": 0.552,
         "energy": 0.878,
-        "key": 1,
+
         "loudness": -5.767,
-        "mode": true,
+
         "speechiness": 0.0353,
         "acousticness": 0.0585,
         "instrumentalness": 0.892,
@@ -9811,9 +9762,9 @@
       "features": {
         "danceability": 0.565,
         "energy": 0.806,
-        "key": 8,
+
         "loudness": -6.521,
-        "mode": true,
+
         "speechiness": 0.109,
         "acousticness": 0.442,
         "instrumentalness": 4.63e-6,
@@ -9832,9 +9783,9 @@
       "features": {
         "danceability": 0.38,
         "energy": 0.0993,
-        "key": 2,
+
         "loudness": -20.567,
-        "mode": true,
+
         "speechiness": 0.0509,
         "acousticness": 0.914,
         "instrumentalness": 2.32e-5,
@@ -9853,9 +9804,9 @@
       "features": {
         "danceability": 0.599,
         "energy": 0.697,
-        "key": 0,
+
         "loudness": -10.073,
-        "mode": true,
+
         "speechiness": 0.0351,
         "acousticness": 0.0011,
         "instrumentalness": 0.813,
@@ -9874,9 +9825,9 @@
       "features": {
         "danceability": 0.335,
         "energy": 0.00532,
-        "key": 1,
+
         "loudness": -31.646,
-        "mode": true,
+
         "speechiness": 0.0376,
         "acousticness": 0.994,
         "instrumentalness": 0.912,
@@ -9895,9 +9846,9 @@
       "features": {
         "danceability": 0.481,
         "energy": 0.262,
-        "key": 7,
+
         "loudness": -15.73,
-        "mode": true,
+
         "speechiness": 0.0414,
         "acousticness": 0.735,
         "instrumentalness": 0.0114,
@@ -9916,9 +9867,9 @@
       "features": {
         "danceability": 0.612,
         "energy": 0.276,
-        "key": 7,
+
         "loudness": -11.932,
-        "mode": true,
+
         "speechiness": 0.0358,
         "acousticness": 0.898,
         "instrumentalness": 0.864,
@@ -9937,9 +9888,9 @@
       "features": {
         "danceability": 0.875,
         "energy": 0.475,
-        "key": 9,
+
         "loudness": -12.673,
-        "mode": false,
+
         "speechiness": 0.0986,
         "acousticness": 0.44,
         "instrumentalness": 0.72,
@@ -9958,9 +9909,9 @@
       "features": {
         "danceability": 0.747,
         "energy": 0.706,
-        "key": 9,
+
         "loudness": -7.553,
-        "mode": false,
+
         "speechiness": 0.0559,
         "acousticness": 0.337,
         "instrumentalness": 0.11,
@@ -9979,9 +9930,9 @@
       "features": {
         "danceability": 0.653,
         "energy": 0.703,
-        "key": 8,
+
         "loudness": -4.376,
-        "mode": false,
+
         "speechiness": 0.19,
         "acousticness": 0.0846,
         "instrumentalness": 0.322,
@@ -10000,9 +9951,9 @@
       "features": {
         "danceability": 0.711,
         "energy": 0.292,
-        "key": 4,
+
         "loudness": -15.523,
-        "mode": false,
+
         "speechiness": 0.037,
         "acousticness": 0.313,
         "instrumentalness": 0,
@@ -10021,9 +9972,9 @@
       "features": {
         "danceability": 0.279,
         "energy": 0.452,
-        "key": 5,
+
         "loudness": -10.598,
-        "mode": false,
+
         "speechiness": 0.0335,
         "acousticness": 0.418,
         "instrumentalness": 0.582,
@@ -10042,9 +9993,9 @@
       "features": {
         "danceability": 0.475,
         "energy": 0.209,
-        "key": 0,
+
         "loudness": -14.442,
-        "mode": true,
+
         "speechiness": 0.0349,
         "acousticness": 0.935,
         "instrumentalness": 0.00332,
@@ -10063,9 +10014,9 @@
       "features": {
         "danceability": 0.0714,
         "energy": 0.207,
-        "key": 0,
+
         "loudness": -14.578,
-        "mode": true,
+
         "speechiness": 0.037,
         "acousticness": 0.292,
         "instrumentalness": 6.92e-5,
@@ -10084,9 +10035,9 @@
       "features": {
         "danceability": 0.508,
         "energy": 0.466,
-        "key": 11,
+
         "loudness": -11.504,
-        "mode": true,
+
         "speechiness": 0.035,
         "acousticness": 0.923,
         "instrumentalness": 0.169,
@@ -10105,9 +10056,9 @@
       "features": {
         "danceability": 0.364,
         "energy": 0.143,
-        "key": 1,
+
         "loudness": -26.625,
-        "mode": true,
+
         "speechiness": 0.043,
         "acousticness": 0.991,
         "instrumentalness": 0.918,
@@ -10126,9 +10077,9 @@
       "features": {
         "danceability": 0.677,
         "energy": 0.66,
-        "key": 0,
+
         "loudness": -6.719,
-        "mode": true,
+
         "speechiness": 0.0278,
         "acousticness": 0.187,
         "instrumentalness": 0.262,
@@ -10147,9 +10098,9 @@
       "features": {
         "danceability": 0.646,
         "energy": 0.11,
-        "key": 9,
+
         "loudness": -20.284,
-        "mode": false,
+
         "speechiness": 0.0354,
         "acousticness": 0.928,
         "instrumentalness": 0.852,
@@ -10168,9 +10119,9 @@
       "features": {
         "danceability": 0.329,
         "energy": 0.283,
-        "key": 4,
+
         "loudness": -17.277,
-        "mode": false,
+
         "speechiness": 0.046,
         "acousticness": 0.864,
         "instrumentalness": 0.871,
@@ -10189,9 +10140,9 @@
       "features": {
         "danceability": 0.676,
         "energy": 0.0812,
-        "key": 2,
+
         "loudness": -22.846,
-        "mode": true,
+
         "speechiness": 0.0398,
         "acousticness": 0.979,
         "instrumentalness": 0.416,
@@ -10210,9 +10161,9 @@
       "features": {
         "danceability": 0.423,
         "energy": 0.183,
-        "key": 9,
+
         "loudness": -13.517,
-        "mode": true,
+
         "speechiness": 0.0344,
         "acousticness": 0.715,
         "instrumentalness": 4.25e-5,
@@ -10231,9 +10182,9 @@
       "features": {
         "danceability": 0.507,
         "energy": 0.138,
-        "key": 1,
+
         "loudness": -16.447,
-        "mode": true,
+
         "speechiness": 0.0334,
         "acousticness": 0.925,
         "instrumentalness": 0.0777,
@@ -10252,9 +10203,9 @@
       "features": {
         "danceability": 0.435,
         "energy": 0.423,
-        "key": 11,
+
         "loudness": -8.795,
-        "mode": true,
+
         "speechiness": 0.024,
         "acousticness": 0.0916,
         "instrumentalness": 0.000659,
@@ -10273,9 +10224,9 @@
       "features": {
         "danceability": 0.686,
         "energy": 0.127,
-        "key": 7,
+
         "loudness": -14.361,
-        "mode": true,
+
         "speechiness": 0.0342,
         "acousticness": 0.754,
         "instrumentalness": 1.41e-5,
@@ -10294,9 +10245,9 @@
       "features": {
         "danceability": 0.554,
         "energy": 0.494,
-        "key": 11,
+
         "loudness": -12.344,
-        "mode": false,
+
         "speechiness": 0.0332,
         "acousticness": 0.00269,
         "instrumentalness": 0.836,
@@ -10315,9 +10266,9 @@
       "features": {
         "danceability": 0.375,
         "energy": 0.304,
-        "key": 1,
+
         "loudness": -14.52,
-        "mode": true,
+
         "speechiness": 0.0302,
         "acousticness": 0.943,
         "instrumentalness": 0.303,
@@ -10336,9 +10287,9 @@
       "features": {
         "danceability": 0.425,
         "energy": 0.784,
-        "key": 1,
+
         "loudness": -4.492,
-        "mode": true,
+
         "speechiness": 0.0353,
         "acousticness": 0.0597,
         "instrumentalness": 0.431,
@@ -10357,9 +10308,9 @@
       "features": {
         "danceability": 0.49,
         "energy": 0.914,
-        "key": 10,
+
         "loudness": -3.202,
-        "mode": true,
+
         "speechiness": 0.167,
         "acousticness": 0.0227,
         "instrumentalness": 0,
@@ -10378,9 +10329,9 @@
       "features": {
         "danceability": 0.516,
         "energy": 0.799,
-        "key": 10,
+
         "loudness": -4.213,
-        "mode": true,
+
         "speechiness": 0.0624,
         "acousticness": 0.0213,
         "instrumentalness": 2.01e-6,
@@ -10399,9 +10350,9 @@
       "features": {
         "danceability": 0.657,
         "energy": 0.712,
-        "key": 4,
+
         "loudness": -3.467,
-        "mode": true,
+
         "speechiness": 0.0319,
         "acousticness": 0.356,
         "instrumentalness": 0.000699,
@@ -10420,9 +10371,9 @@
       "features": {
         "danceability": 0.68,
         "energy": 0.533,
-        "key": 10,
+
         "loudness": -10.572,
-        "mode": false,
+
         "speechiness": 0.0391,
         "acousticness": 0.161,
         "instrumentalness": 0.753,
@@ -10441,9 +10392,9 @@
       "features": {
         "danceability": 0.491,
         "energy": 0.723,
-        "key": 8,
+
         "loudness": -7.449,
-        "mode": true,
+
         "speechiness": 0.0474,
         "acousticness": 0.0236,
         "instrumentalness": 0.547,
@@ -10462,9 +10413,9 @@
       "features": {
         "danceability": 0.675,
         "energy": 0.827,
-        "key": 8,
+
         "loudness": -4.292,
-        "mode": false,
+
         "speechiness": 0.0363,
         "acousticness": 0.00138,
         "instrumentalness": 0.865,
@@ -10483,9 +10434,9 @@
       "features": {
         "danceability": 0.457,
         "energy": 0.839,
-        "key": 8,
+
         "loudness": -7.386,
-        "mode": false,
+
         "speechiness": 0.151,
         "acousticness": 0.00303,
         "instrumentalness": 6.49e-5,
@@ -10504,9 +10455,9 @@
       "features": {
         "danceability": 0.924,
         "energy": 0.596,
-        "key": 1,
+
         "loudness": -3.287,
-        "mode": true,
+
         "speechiness": 0.113,
         "acousticness": 0.0734,
         "instrumentalness": 0,
@@ -10525,9 +10476,9 @@
       "features": {
         "danceability": 0.45,
         "energy": 0.846,
-        "key": 9,
+
         "loudness": -4.712,
-        "mode": false,
+
         "speechiness": 0.0472,
         "acousticness": 0.00523,
         "instrumentalness": 0,
@@ -10546,9 +10497,9 @@
       "features": {
         "danceability": 0.475,
         "energy": 0.821,
-        "key": 8,
+
         "loudness": -5.669,
-        "mode": true,
+
         "speechiness": 0.0761,
         "acousticness": 0.004,
         "instrumentalness": 0.000768,
@@ -10567,9 +10518,9 @@
       "features": {
         "danceability": 0.645,
         "energy": 0.707,
-        "key": 1,
+
         "loudness": -6.615,
-        "mode": true,
+
         "speechiness": 0.0381,
         "acousticness": 0.00138,
         "instrumentalness": 0.00121,
@@ -10588,9 +10539,9 @@
       "features": {
         "danceability": 0.478,
         "energy": 0.893,
-        "key": 8,
+
         "loudness": -4.259,
-        "mode": false,
+
         "speechiness": 0.182,
         "acousticness": 0.00383,
         "instrumentalness": 0.467,
@@ -10609,9 +10560,9 @@
       "features": {
         "danceability": 0.45,
         "energy": 0.756,
-        "key": 1,
+
         "loudness": -6.307,
-        "mode": false,
+
         "speechiness": 0.0389,
         "acousticness": 0.108,
         "instrumentalness": 0.0205,
@@ -10630,9 +10581,9 @@
       "features": {
         "danceability": 0.458,
         "energy": 0.752,
-        "key": 0,
+
         "loudness": -6.302,
-        "mode": false,
+
         "speechiness": 0.0564,
         "acousticness": 0.0487,
         "instrumentalness": 1.87e-6,
@@ -10651,9 +10602,9 @@
       "features": {
         "danceability": 0.44,
         "energy": 0.792,
-        "key": 0,
+
         "loudness": -7.088,
-        "mode": false,
+
         "speechiness": 0.048,
         "acousticness": 0.014,
         "instrumentalness": 0.00138,
@@ -10672,9 +10623,9 @@
       "features": {
         "danceability": 0.467,
         "energy": 0.723,
-        "key": 0,
+
         "loudness": -7.101,
-        "mode": false,
+
         "speechiness": 0.0536,
         "acousticness": 0.117,
         "instrumentalness": 3.49e-6,
@@ -10693,9 +10644,9 @@
       "features": {
         "danceability": 0.509,
         "energy": 0.897,
-        "key": 8,
+
         "loudness": -3.418,
-        "mode": false,
+
         "speechiness": 0.0454,
         "acousticness": 0.0861,
         "instrumentalness": 0.000634,
@@ -10714,9 +10665,9 @@
       "features": {
         "danceability": 0.658,
         "energy": 0.573,
-        "key": 3,
+
         "loudness": -5.408,
-        "mode": false,
+
         "speechiness": 0.107,
         "acousticness": 0.023,
         "instrumentalness": 0.0613,
@@ -10735,9 +10686,9 @@
       "features": {
         "danceability": 0.443,
         "energy": 0.727,
-        "key": 0,
+
         "loudness": -5.171,
-        "mode": false,
+
         "speechiness": 0.0984,
         "acousticness": 0.0987,
         "instrumentalness": 9.35e-6,
@@ -10756,9 +10707,9 @@
       "features": {
         "danceability": 0.678,
         "energy": 0.588,
-        "key": 7,
+
         "loudness": -7.015,
-        "mode": true,
+
         "speechiness": 0.276,
         "acousticness": 0.141,
         "instrumentalness": 6.35e-6,
@@ -10777,9 +10728,9 @@
       "features": {
         "danceability": 0.732,
         "energy": 0.396,
-        "key": 4,
+
         "loudness": -9.348,
-        "mode": false,
+
         "speechiness": 0.0286,
         "acousticness": 0.0841,
         "instrumentalness": 3.58e-5,
@@ -10798,9 +10749,9 @@
       "features": {
         "danceability": 0.506,
         "energy": 0.954,
-        "key": 0,
+
         "loudness": -2.349,
-        "mode": false,
+
         "speechiness": 0.103,
         "acousticness": 0.00943,
         "instrumentalness": 0.00894,
@@ -10819,9 +10770,9 @@
       "features": {
         "danceability": 0.611,
         "energy": 0.697,
-        "key": 2,
+
         "loudness": -8.618,
-        "mode": true,
+
         "speechiness": 0.133,
         "acousticness": 0.0193,
         "instrumentalness": 0,
@@ -10840,9 +10791,9 @@
       "features": {
         "danceability": 0.866,
         "energy": 0.599,
-        "key": 2,
+
         "loudness": -7.903,
-        "mode": true,
+
         "speechiness": 0.163,
         "acousticness": 0.00917,
         "instrumentalness": 0,
@@ -10861,9 +10812,9 @@
       "features": {
         "danceability": 0.461,
         "energy": 0.505,
-        "key": 3,
+
         "loudness": -10.476,
-        "mode": false,
+
         "speechiness": 0.0406,
         "acousticness": 0.0548,
         "instrumentalness": 0.00024,
@@ -10882,9 +10833,9 @@
       "features": {
         "danceability": 0.574,
         "energy": 0.833,
-        "key": 9,
+
         "loudness": -6.581,
-        "mode": true,
+
         "speechiness": 0.0878,
         "acousticness": 0.00291,
         "instrumentalness": 0.00238,
@@ -10903,9 +10854,9 @@
       "features": {
         "danceability": 0.734,
         "energy": 0.808,
-        "key": 3,
+
         "loudness": -6.448,
-        "mode": false,
+
         "speechiness": 0.106,
         "acousticness": 0.189,
         "instrumentalness": 0.699,
@@ -10924,9 +10875,9 @@
       "features": {
         "danceability": 0.56,
         "energy": 0.846,
-        "key": 5,
+
         "loudness": -4.494,
-        "mode": false,
+
         "speechiness": 0.0466,
         "acousticness": 0.0703,
         "instrumentalness": 0.898,
@@ -10945,9 +10896,9 @@
       "features": {
         "danceability": 0.638,
         "energy": 0.711,
-        "key": 10,
+
         "loudness": -6.088,
-        "mode": false,
+
         "speechiness": 0.0668,
         "acousticness": 0.115,
         "instrumentalness": 0.5,
@@ -10966,9 +10917,9 @@
       "features": {
         "danceability": 0.422,
         "energy": 0.91,
-        "key": 9,
+
         "loudness": -4.052,
-        "mode": false,
+
         "speechiness": 0.0515,
         "acousticness": 0.000947,
         "instrumentalness": 0.654,
@@ -10987,9 +10938,9 @@
       "features": {
         "danceability": 0.439,
         "energy": 0.383,
-        "key": 8,
+
         "loudness": -5.347,
-        "mode": false,
+
         "speechiness": 0.0336,
         "acousticness": 0.0326,
         "instrumentalness": 0.000256,
@@ -11008,9 +10959,9 @@
       "features": {
         "danceability": 0.428,
         "energy": 0.689,
-        "key": 7,
+
         "loudness": -6.967,
-        "mode": false,
+
         "speechiness": 0.0359,
         "acousticness": 0.00315,
         "instrumentalness": 0.264,
@@ -11029,9 +10980,9 @@
       "features": {
         "danceability": 0.387,
         "energy": 0.973,
-        "key": 11,
+
         "loudness": -3.909,
-        "mode": true,
+
         "speechiness": 0.147,
         "acousticness": 0.00126,
         "instrumentalness": 0.467,
@@ -11050,9 +11001,9 @@
       "features": {
         "danceability": 0.598,
         "energy": 0.532,
-        "key": 3,
+
         "loudness": -6.833,
-        "mode": false,
+
         "speechiness": 0.0295,
         "acousticness": 0.0668,
         "instrumentalness": 3.22e-6,
@@ -11071,9 +11022,9 @@
       "features": {
         "danceability": 0.705,
         "energy": 0.811,
-        "key": 9,
+
         "loudness": -5.201,
-        "mode": true,
+
         "speechiness": 0.0285,
         "acousticness": 0.425,
         "instrumentalness": 6.15e-5,
@@ -11092,9 +11043,9 @@
       "features": {
         "danceability": 0.271,
         "energy": 0.766,
-        "key": 5,
+
         "loudness": -8.03,
-        "mode": true,
+
         "speechiness": 0.0329,
         "acousticness": 0.00217,
         "instrumentalness": 0.52,
@@ -11113,9 +11064,9 @@
       "features": {
         "danceability": 0.725,
         "energy": 0.803,
-        "key": 2,
+
         "loudness": -4.083,
-        "mode": true,
+
         "speechiness": 0.0337,
         "acousticness": 0.013,
         "instrumentalness": 3.66e-5,
@@ -11134,9 +11085,9 @@
       "features": {
         "danceability": 0.732,
         "energy": 0.396,
-        "key": 4,
+
         "loudness": -9.348,
-        "mode": false,
+
         "speechiness": 0.0286,
         "acousticness": 0.0841,
         "instrumentalness": 3.58e-5,
@@ -11155,9 +11106,9 @@
       "features": {
         "danceability": 0.52,
         "energy": 0.761,
-        "key": 4,
+
         "loudness": -3.093,
-        "mode": true,
+
         "speechiness": 0.0853,
         "acousticness": 0.256,
         "instrumentalness": 4.96e-6,
@@ -11176,9 +11127,9 @@
       "features": {
         "danceability": 0.505,
         "energy": 0.476,
-        "key": 2,
+
         "loudness": -12.897,
-        "mode": true,
+
         "speechiness": 0.0711,
         "acousticness": 0.25,
         "instrumentalness": 0.00915,
@@ -11197,9 +11148,9 @@
       "features": {
         "danceability": 0.622,
         "energy": 0.54,
-        "key": 5,
+
         "loudness": -13.99,
-        "mode": true,
+
         "speechiness": 0.0261,
         "acousticness": 0.017,
         "instrumentalness": 0.00771,
@@ -11218,9 +11169,9 @@
       "features": {
         "danceability": 0.638,
         "energy": 0.656,
-        "key": 5,
+
         "loudness": -9.049,
-        "mode": false,
+
         "speechiness": 0.0353,
         "acousticness": 0.589,
         "instrumentalness": 0.886,
@@ -11239,9 +11190,9 @@
       "features": {
         "danceability": 0.571,
         "energy": 0.8,
-        "key": 7,
+
         "loudness": -4.131,
-        "mode": true,
+
         "speechiness": 0.0292,
         "acousticness": 0.0101,
         "instrumentalness": 7.29e-5,
@@ -11260,9 +11211,9 @@
       "features": {
         "danceability": 0.588,
         "energy": 0.33,
-        "key": 0,
+
         "loudness": -8.263,
-        "mode": true,
+
         "speechiness": 0.0338,
         "acousticness": 0.265,
         "instrumentalness": 0.000769,
@@ -11281,9 +11232,9 @@
       "features": {
         "danceability": 0.44,
         "energy": 0.565,
-        "key": 7,
+
         "loudness": -11.657,
-        "mode": true,
+
         "speechiness": 0.121,
         "acousticness": 0.048,
         "instrumentalness": 0,
@@ -11302,9 +11253,9 @@
       "features": {
         "danceability": 0.775,
         "energy": 0.585,
-        "key": 10,
+
         "loudness": -9.516,
-        "mode": false,
+
         "speechiness": 0.0271,
         "acousticness": 0.0422,
         "instrumentalness": 0.619,
@@ -11323,9 +11274,9 @@
       "features": {
         "danceability": 0.575,
         "energy": 0.67,
-        "key": 7,
+
         "loudness": -10.39,
-        "mode": true,
+
         "speechiness": 0.0318,
         "acousticness": 0.343,
         "instrumentalness": 4.95e-6,
@@ -11344,9 +11295,9 @@
       "features": {
         "danceability": 0.435,
         "energy": 0.423,
-        "key": 11,
+
         "loudness": -8.795,
-        "mode": true,
+
         "speechiness": 0.024,
         "acousticness": 0.0916,
         "instrumentalness": 0.000659,
@@ -11365,9 +11316,9 @@
       "features": {
         "danceability": 0.775,
         "energy": 0.579,
-        "key": 10,
+
         "loudness": -5.435,
-        "mode": false,
+
         "speechiness": 0.0348,
         "acousticness": 0.00406,
         "instrumentalness": 0.0242,
@@ -11386,9 +11337,9 @@
       "features": {
         "danceability": 0.639,
         "energy": 0.495,
-        "key": 3,
+
         "loudness": -9.24,
-        "mode": true,
+
         "speechiness": 0.0255,
         "acousticness": 0.716,
         "instrumentalness": 0.743,
@@ -11407,9 +11358,9 @@
       "features": {
         "danceability": 0.422,
         "energy": 0.745,
-        "key": 0,
+
         "loudness": -2.805,
-        "mode": true,
+
         "speechiness": 0.186,
         "acousticness": 0.211,
         "instrumentalness": 0,
@@ -11428,9 +11379,9 @@
       "features": {
         "danceability": 0.518,
         "energy": 0.401,
-        "key": 9,
+
         "loudness": -7.583,
-        "mode": false,
+
         "speechiness": 0.0284,
         "acousticness": 0.642,
         "instrumentalness": 0.000185,
@@ -11449,9 +11400,9 @@
       "features": {
         "danceability": 0.544,
         "energy": 0.69,
-        "key": 6,
+
         "loudness": -5.723,
-        "mode": false,
+
         "speechiness": 0.0425,
         "acousticness": 0.012,
         "instrumentalness": 0.0095,
@@ -11470,9 +11421,9 @@
       "features": {
         "danceability": 0.612,
         "energy": 0.276,
-        "key": 7,
+
         "loudness": -11.932,
-        "mode": true,
+
         "speechiness": 0.0358,
         "acousticness": 0.898,
         "instrumentalness": 0.864,
@@ -11491,9 +11442,9 @@
       "features": {
         "danceability": 0.523,
         "energy": 0.438,
-        "key": 0,
+
         "loudness": -11.49,
-        "mode": false,
+
         "speechiness": 0.0356,
         "acousticness": 0.867,
         "instrumentalness": 0.0723,
@@ -11512,9 +11463,9 @@
       "features": {
         "danceability": 0.591,
         "energy": 0.323,
-        "key": 2,
+
         "loudness": -14.742,
-        "mode": false,
+
         "speechiness": 0.0467,
         "acousticness": 0.198,
         "instrumentalness": 0.292,
@@ -11533,9 +11484,9 @@
       "features": {
         "danceability": 0.423,
         "energy": 0.183,
-        "key": 9,
+
         "loudness": -13.517,
-        "mode": true,
+
         "speechiness": 0.0344,
         "acousticness": 0.715,
         "instrumentalness": 4.25e-5,
@@ -11554,9 +11505,9 @@
       "features": {
         "danceability": 0.475,
         "energy": 0.209,
-        "key": 0,
+
         "loudness": -14.442,
-        "mode": true,
+
         "speechiness": 0.0349,
         "acousticness": 0.935,
         "instrumentalness": 0.00332,
@@ -11575,9 +11526,9 @@
       "features": {
         "danceability": 0.477,
         "energy": 0.235,
-        "key": 0,
+
         "loudness": -14.38,
-        "mode": true,
+
         "speechiness": 0.0571,
         "acousticness": 0.84,
         "instrumentalness": 0.00043,
@@ -11596,9 +11547,9 @@
       "features": {
         "danceability": 0.315,
         "energy": 0.11,
-        "key": 3,
+
         "loudness": -20.94,
-        "mode": true,
+
         "speechiness": 0.0343,
         "acousticness": 0.974,
         "instrumentalness": 0.897,
@@ -11617,9 +11568,9 @@
       "features": {
         "danceability": 0.37,
         "energy": 0.0772,
-        "key": 0,
+
         "loudness": -19.322,
-        "mode": true,
+
         "speechiness": 0.0414,
         "acousticness": 0.642,
         "instrumentalness": 0.69,

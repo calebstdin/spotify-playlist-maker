@@ -36,7 +36,7 @@ def evaluate_recommender(Recommender):
     evaluations = []
     for playlist in data['playlists']:
         recommendation_counts = []
-        for _ in range(2):
+        for _ in range(10):
             recommendation_count = evaluate_recommender_for_playlist(
                 Recommender, playlist['tracks'])
             recommendation_counts.append(recommendation_count)
@@ -46,6 +46,6 @@ def evaluate_recommender(Recommender):
 
 
 naive = evaluate_recommender_for_playlist(NaiveClassification,
-                                          data['playlists'][3]['tracks'])
+                                          data['playlists'][0]['tracks'])
 
 print(naive)

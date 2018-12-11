@@ -2,10 +2,6 @@ from abc import ABC, abstractmethod
 import pandas as pd
 from sklearn import preprocessing
 from sklearn.svm import SVC
-from sklearn.exceptions import DataConversionWarning
-import warnings
-
-warnings.filterwarnings(action='ignore', category=DataConversionWarning)
 
 
 class Recommender(ABC):
@@ -72,9 +68,9 @@ class NaiveClassification(Recommender):
 
         clf = SVC(gamma='auto', probability=True)
         clf.fit(X_train, y)
-        predictions = clf.predict_proba(X_predict)
+        predictions = clf.predict_proba(X_predict)[:, 1]
 
-        recommendation_index = predictions.argmax(axis=0)[0]
+        recommendation_index = predictions.argmax()
         return self.recommendations_pool.pop(recommendation_index)
 
 
