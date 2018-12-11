@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Spotify Playlist Maker",
-    "description": "This project is really great.",
+    "description": "",
     "slug": "spotify-playlist-maker",
     "privacy": "public",
     "sdkVersion": "31.0.0",
