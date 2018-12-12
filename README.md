@@ -1,4 +1,4 @@
-# Getting started
+# Appendix A: Getting started
 
 ## Prerequisites
 
@@ -20,12 +20,14 @@ pip install pipenv
 pipenv install
 ```
 
-## Running the performance analysis script
+## Running the evaluation script
 
 ```
 pipenv shell
 python evaluation.py
 ```
+
+The script takes approximately 10 minutes to complete on my machine.
 
 ## Using the Android client
 

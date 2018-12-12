@@ -48,7 +48,7 @@ class BaselineRecommender(Recommender):
 # All songs in the playlist have target feature = True
 # All songs in the recommendation pool have target feature = False
 # Train classifier based on that.
-class NaiveClassification(Recommender):
+class NaivePUClassifier(Recommender):
     def next_recommendation(self, like_current_recommendation):
         X_train = preprocessing.scale(
             pd.DataFrame(
@@ -76,7 +76,7 @@ class NaiveClassification(Recommender):
 
 def initialize_recommender(playlist_tracks, recommendations_pool):
     global recommender
-    recommender = NaiveClassification(playlist_tracks, recommendations_pool)
+    recommender = NaivePUClassifier(playlist_tracks, recommendations_pool)
 
 
 def get_recommendation():

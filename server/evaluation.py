@@ -1,6 +1,7 @@
 import json
 import numpy as np
-from recommender import BaselineRecommender, NaiveClassification
+from tabulate import tabulate
+from recommender import BaselineRecommender, NaivePUClassifier
 
 with open('data/data.json') as data_file:
     data = json.load(data_file)
@@ -33,19 +34,24 @@ def evaluate_recommender_for_playlist(Recommender, playlist_tracks):
 
 
 def evaluate_recommender(Recommender):
-    evaluations = []
+    evaluations = {}
     for playlist in data['playlists']:
         recommendation_counts = []
-        for _ in range(10):
+        for _ in range(20):
             recommendation_count = evaluate_recommender_for_playlist(
                 Recommender, playlist['tracks'])
             recommendation_counts.append(recommendation_count)
 
-        evaluations.append([playlist['name'], np.mean(recommendation_counts)])
+        evaluations[playlist['name']] = np.mean(recommendation_counts)
     return evaluations
 
 
-naive = evaluate_recommender_for_playlist(NaiveClassification,
-                                          data['playlists'][0]['tracks'])
+baseline = evaluate_recommender(BaselineRecommender)
+pu_classifier = evaluate_recommender(NaivePUClassifier)
 
-print(naive)
+results = [[key, baseline[key], pu_classifier[key]] for key in baseline]
+
+results_table = tabulate(
+    results, headers=['Playlist', 'Baseline Score', 'PU Classifier Score'])
+
+print(results_table)

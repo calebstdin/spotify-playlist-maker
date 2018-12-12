@@ -16,6 +16,7 @@ spotipy = "*"
 sklearn = "*"
 pandas = "*"
 numpy = "*"
+tabulate = "*"
 
 [requires]
 python_version = "3.6"
